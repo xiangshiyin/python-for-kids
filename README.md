@@ -45,7 +45,7 @@ Please head to https://replit.com, sign up a free account, and log in the accoun
 
 您可以通过在线编程网站 https://replit.com 创建免费账户然后在其中编写调试程序。如果我们的场地网络信号允许，我们可以尝试这一方案。**希望您课前**提前注册好账户，并且登录相应的账户。这个工具的好处是您无需在本地电脑安装任何软件，可以直接在浏览器界面编写程序。
 
-### Local coding tools
+### Local coding tools (`Anaconda`)
 You can also install the packaged Python toolset to your local computer.
 * Please download Anaconda via this link: https://www.anaconda.com/products/distribution. You can download link when you scroll to the bottom of the web page. Please choose the installer that's compatible to your computer operation system
   * For Mac OS user, you can download `64-Bit Graphical Installer (591 MB)`
