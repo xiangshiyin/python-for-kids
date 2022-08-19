@@ -13,7 +13,7 @@ General schedule: Every Saturday from 9:30AM to 10:20AM
 |:----:|:----------:|--------------------------------------------|-----------|
 |   1  | 2022-08-06 | -                                          |           |
 |   2  | 2022-08-13 | -                                          |           |
-|   3  | 2022-08-20 | Introduction to Programming & Python       | [slides](https://docs.google.com/presentation/d/1Q35y-fWR4LwFnihzVuaolTxWZ5rCQaf694ZdCtju6yw/edit#slide=id.p)  |
+|   3  | 2022-08-20 | Introduction to Programming & Python       | [slides]  |
 |   4  | 2022-08-27 | TBD                                        |           |
 |   -  | 2022-09-03 |                                            |           |
 |   5  | 2022-09-10 | TBD                                        |           |
