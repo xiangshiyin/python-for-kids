@@ -13,7 +13,7 @@ General schedule: Every Saturday from 9:30AM to 10:20AM
 |:----:|:----------:|--------------------------------------------|-----------|
 |   1  | 2022-08-06 | -                                          |           |
 |   2  | 2022-08-13 | -                                          |           |
-|   3  | 2022-08-20 | Introduction to Programming & Python       | [slides]  |
+|   3  | 2022-08-20 | Introduction to Programming & Python       | [slides] \| [materials]  |
 |   4  | 2022-08-27 | TBD                                        |           |
 |   -  | 2022-09-03 |                                            |           |
 |   5  | 2022-09-10 | TBD                                        |           |
@@ -55,4 +55,29 @@ You can also install the packaged Python toolset to your local computer.
   * 如果您是 Windows 64位操作系统用户，您可以下载 `64-Bit Graphical Installer (594 MB)`
   * 如果您是 Windows 32位操作系统用户，您可以下载 `32-Bit Graphical Installer (488 MB)`
 
+## Topics to Cover
+* Data types and computations
+* Conditional statements
+* Loops and control statements
+* Functions
+* String processing
+* Basic data structures
+* File input and output
+* Basic algorithms
+
+## References
+There are many resources from both online and offline for Python learning, below are some examples. You don't necessarily need to buy the books listed here, we'll cover all the necessary content in our class and keep introducing corresponding reading materials as the course proceeds.
+
+针对学习Python编程，您可以找到很多相应的书籍以及网上资源，下面罗列的是一些例子，仅供参考。我们也会随着课程推进针对不同的话题不断推荐一些网上很容易找到的阅读材料。
+
+Example resources:
+* Online resource: [Python Tutorials](https://www.w3schools.com/python/default.asp)
+* Books
+  * [Python for Kids: A Playful Introduction To Programming](https://www.amazon.com/dp/1593274076/ref=redir_mobile_desktop?_encoding=UTF8&aaxitk=d264001a57ba508de8d115d73c988036&content-id=amzn1.sym.53aae2ac-0129-49a5-9c09-6530a9e11786%3Aamzn1.sym.53aae2ac-0129-49a5-9c09-6530a9e11786&hsa_cr_id=3011863920001&pd_rd_plhdr=t&pd_rd_r=776252a2-10dd-42ef-8c8a-60ed3951adb6&pd_rd_w=7SqWT&pd_rd_wg=Inv19&qid=1660940328&ref_=sbx_be_s_sparkle_mcd_asin_0_img&sr=1-1-a094db1c-5033-42c6-82a2-587d01f975e8)
+  * [Introduction to Programming: A Very Brief Text for the Young and Impatient (Python Edition)](https://www.amazon.com/Introduction-Programming-Brief-Impatient-Python/dp/B09XZMPRV2/ref=sr_1_1?crid=KVSEJZAOX92P&keywords=introduction+to+programming+hong+gongbing&qid=1660940380&s=books&sprefix=introduction+to+programming+hong+gongbing%2Cstripbooks%2C84&sr=1-1)
+
+## Contact
+If you have questions with regard to this course, please feel free to follow the contact information listed [here]((https://docs.google.com/presentation/d/1Q35y-fWR4LwFnihzVuaolTxWZ5rCQaf694ZdCtju6yw/edit#slide=id.g145d4dbaba8_0_164)) to contact the instructor. If you want to open the discussion so that other students in the class could join, you could also create an issue on the course site following the instructions listed in the above link.
+
+如果您有问题，可以通过[这里的 Google Slides](https://docs.google.com/presentation/d/1Q35y-fWR4LwFnihzVuaolTxWZ5rCQaf694ZdCtju6yw/edit#slide=id.g145d4dbaba8_0_164) 所列的联系方式和老师沟通。如果问题是关于编程本身并且希望能和其他同学讨论，您也可以按照上述 Google Slides 所列方式在课程网站上发问。
 
