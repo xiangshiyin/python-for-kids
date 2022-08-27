@@ -14,7 +14,7 @@ General schedule: Every Saturday from 9:30AM to 10:20AM
 |   1  | 2022-08-06 | -                                          |           |
 |   2  | 2022-08-13 | -                                          |           |
 |   3  | 2022-08-20 | Introduction to Programming & Python       | [slides](https://docs.google.com/presentation/d/1Q35y-fWR4LwFnihzVuaolTxWZ5rCQaf694ZdCtju6yw/edit#slide=id.p) \| [materials](./2022-08-20/README.md)  |
-|   4  | 2022-08-27 | Computing Mechanism and Basic Data Types   | [slides](https://docs.google.com/presentation/d/1yhaXolwT1iwIWzOgBl6nVFXg3bwOYlraJ9x9LelX7F4/edit#slide=id.p) \| [materials]          |
+|   4  | 2022-08-27 | Computer Mechanism and Basic Data Types   | [slides](https://docs.google.com/presentation/d/1yhaXolwT1iwIWzOgBl6nVFXg3bwOYlraJ9x9LelX7F4/edit#slide=id.p) \| [materials](./2022-08-27/README.md)          |
 |   -  | 2022-09-03 |                                            |           |
 |   5  | 2022-09-10 | TBD                                        |           |
 |   6  | 2022-09-17 | TBD                                        |           |
