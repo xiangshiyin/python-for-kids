@@ -9,4 +9,6 @@ In this class, we are targeting at:
 * [slides](https://docs.google.com/presentation/d/1G-Au9Sd85CgBq5EVumfeqC0WizFx9MQU7T3FQLjBN94/edit#slide=id.p)
 
 ## Topics to explore
-TBD
+* Review page 1-8 of the lecture [slides](https://docs.google.com/presentation/d/1G-Au9Sd85CgBq5EVumfeqC0WizFx9MQU7T3FQLjBN94/edit#slide=id.p)
+* Arithmetic operations in Python [[link](https://www.geeksforgeeks.org/python-arithmetic-operators/)]
+* String operations in Python [[link](https://realpython.com/python-strings/)]
