@@ -18,7 +18,7 @@ General schedule: Every Saturday from 9:30AM to 10:20AM
 |   -  | 2022-09-03 | *No Class*                                   |           |
 |   5  | 2022-09-10 | Hands-on Exercise on Python Expressions and Computations                                        | [slides](https://docs.google.com/presentation/d/1G-Au9Sd85CgBq5EVumfeqC0WizFx9MQU7T3FQLjBN94/edit#slide=id.p) \| [materials](./2022-09-10/)          |
 |   6  | 2022-09-17 | Conditional Statement                                        | [slides](https://docs.google.com/presentation/d/1PQvH6w5AHYLyJNba9uOe2IO-2dW0Bx1otkPZ8d7x_H0/edit#slide=id.p) \| [materials](./2022-09-17/)          |
-|   7  | 2022-09-24 | TBD                                        |           |
+|   7  | 2022-09-24 | Conditional Statement (continued)                            | [slides](https://docs.google.com/presentation/d/1t8fg9Qi_0eVbpXPO6UXvGf2Femm-Mh1TWrkoObms5MI/edit#slide=id.p) \| [materials](./2022-09-24/)          |
 |   8  | 2022-10-01 | TBD                                        |           |
 |   -  | 2022-10-08 | *No Class*                                 |           |
 |   9  | 2022-10-15 | TBD                                        |           |
