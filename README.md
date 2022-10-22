@@ -22,7 +22,7 @@ General schedule: Every Saturday from 9:30AM to 10:20AM
 |   8  | 2022-10-01 | Loops (part I)                                        | [slides](https://docs.google.com/presentation/d/1qRppWIFqPaEbbSGNFsnsdCalyXgjf8ZSUeJgJBu5YmA/edit#slide=id.p) \| [materials](./2022-fall/2022-10-01/)          |
 |   -  | 2022-10-08 | *No Class*                                 |           |
 |   9  | 2022-10-15 | Loops (part II)                                        | [slides](https://docs.google.com/presentation/d/1aiN1WaNgSnSX0rzmtByJRMGHnIRy3pE7tCqZxZsaCeE/edit#slide=id.p) \| [materials](./2022-fall/2022-10-15/)          |
-|  10  | 2022-10-22 | TBD                                        |           |
+|  10  | 2022-10-22 | Loops (part III)                                        | [slides](https://docs.google.com/presentation/d/1lzFbE4mquw4y4MZpHUV8dS4kRFaug5gErdhjK7BwlkY/edit#slide=id.p) \| [materials](./2022-fall/2022-10-22/)          |
 |  11  | 2022-10-29 | TBD                                        |           |
 |  12  | 2022-11-05 | TBD                                        |           |
 |  13  | 2022-11-12 | TBD                                        |           |
