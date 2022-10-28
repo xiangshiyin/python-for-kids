@@ -81,3 +81,5 @@ If you have questions with regard to this course, please feel free to follow the
 
 如果您有问题，可以通过[这里的 Google Slides](https://docs.google.com/presentation/d/1Q35y-fWR4LwFnihzVuaolTxWZ5rCQaf694ZdCtju6yw/edit#slide=id.g145d4dbaba8_0_164) 所列的联系方式和老师沟通。如果问题是关于编程本身并且希望能和其他同学讨论，您也可以按照上述 Google Slides 所列方式在课程网站上发问。
 
+## Github integration with Colab
+Check this [reference](https://colab.research.google.com/github/googlecolab/colabtools/blob/main/notebooks/colab-github-demo.ipynb)
