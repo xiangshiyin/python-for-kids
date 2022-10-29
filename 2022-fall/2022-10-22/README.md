@@ -1,6 +1,6 @@
 # Lecture 08: Loops (part III)
 
-In this class, we will TBD
+In this class, we will go through 2 more examples on `while` loop and briefly talk about `for` loop
 
 ## Course materials
 * [slides](https://docs.google.com/presentation/d/1lzFbE4mquw4y4MZpHUV8dS4kRFaug5gErdhjK7BwlkY/edit#slide=id.p)
