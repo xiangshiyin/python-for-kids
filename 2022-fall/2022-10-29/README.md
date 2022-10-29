@@ -6,7 +6,8 @@ In this class, we will talk about some examples on `for` loop
 * [slides](https://docs.google.com/presentation/d/17dyShGZN36zQxopGYpMf6v4PI5Y00qB_J5bvyatUjrQ/edit#slide=id.p)
 
 ## Topics to explore
-* Play with the drawing program in section 3 of [the notebook](./practice.ipynb) we demoed in our class, try to understand how the drawing works.
+* Play with the drawing program in section 3 of [the notebook](./practice.ipynb) we demoed in our class, try to understand how the drawing works
+  * Run the notebook from local in `Jupyter Notebook`
   * Modify the code and see if you can draw a different shape!
 * Give it a try to the `Extra exercises` (`4.1` and `4.2`) listed in [the notebook](./practice.ipynb), see if you figure out a solution with the `for` loop we learnt.
 * Extra topics to explore
