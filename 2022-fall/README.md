@@ -55,6 +55,10 @@ You can also install the packaged Python toolset to your local computer.
   * 如果您是 Windows 64位操作系统用户，您可以下载 `64-Bit Graphical Installer (594 MB)`
   * 如果您是 Windows 32位操作系统用户，您可以下载 `32-Bit Graphical Installer (488 MB)`
 
+### Other options (online)
+* You can execute the notebook code samples posted via the ![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg) button listed to run the notebook on Google Colab in your browser
+* Github now also provides a free codespace to run the whole code repository (including the notebook code samples) in your browser. Check [here](https://github.com/features/codespaces) for more information.
+
 
 ## Topics to Cover
 * Data types and computations
