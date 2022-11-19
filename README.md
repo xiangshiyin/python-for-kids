@@ -26,7 +26,7 @@ General schedule: Every Saturday from 9:30AM to 10:20AM
 |  11  | 2022-10-29 | Loops (part IV)                                        | [slides](https://docs.google.com/presentation/d/17dyShGZN36zQxopGYpMf6v4PI5Y00qB_J5bvyatUjrQ/edit#slide=id.p) \| [materials](./2022-fall/2022-10-29/)          |
 |  12  | 2022-11-05 | Non-primitive Data Types (part I)                                        | [slides](https://docs.google.com/presentation/d/1NTFpRPSDnxgnG-qlmDQymOurtOPmoJ5iXrr2WQbT14c/edit#slide=id.p) \| [materials](./2022-fall/2022-11-05/)          |
 |  13  | 2022-11-12 | Non-primitive Data Types (part II)                                        | [slides](https://docs.google.com/presentation/d/1BmEfO94awu3dIsgYmg0OcYdHcgWxdYKQp7Tz4sGTsNE/edit#slide=id.p) \| [materials](./2022-fall/2022-11-12/)          |
-|  14  | 2022-11-19 | TBD                                        |           |
+|  14  | 2022-11-19 | Non-primitive Data Types (part III)                                        | [slides](https://docs.google.com/presentation/d/1lYeeSGJ0Qho1tauvEdsGurLk0A32iPHaUUnomJi-awA/edit#slide=id.p) \| [materials](./2022-fall/2022-11-19/)          |
 |   -  | 2022-11-26 | *No Class*                                 |           |
 |  15  | 2022-12-03 | TBD                                        |           |
 |  16  | 2022-12-10 | TBD                                        |           |
