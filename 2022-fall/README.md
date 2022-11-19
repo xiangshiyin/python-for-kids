@@ -61,14 +61,14 @@ You can also install the packaged Python toolset to your local computer.
 
 
 ## Topics to Cover
-* Data types and computations
-* Conditional statements
-* Loops and control statements
-* Functions
-* String processing
-* Basic data structures
-* File input and output
-* Basic algorithms
+* [x] Data types and computations
+* [x] Conditional statements
+* [x] Loops and control statements
+* [ ] Functions
+* [x] String processing
+* [x] Basic data structures
+* [ ] File input and output
+* [ ] Basic algorithms
 
 ## References
 There are many resources from both online and offline for Python learning, below are some examples. You don't necessarily need to buy the books listed here, we'll cover all the necessary content in our class and keep introducing corresponding reading materials as the course proceeds.
