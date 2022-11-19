@@ -1,6 +1,6 @@
 # Lecture 12: Non-primitive Data Types (Part III)
 
-Today we will continue the topic about some non-primitive data types in Python programming
+Today we will go through more hands-on examples about the data types we've talked about
 * List
 * Tuple
 * Set
