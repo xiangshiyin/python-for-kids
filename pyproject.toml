@@ -1,0 +1,17 @@
+[tool.poetry]
+name = "python-for-kids"
+version = "0.1.0"
+description = "Materials to help young folks learn Python programming basics"
+authors = ["Xiangshi Yin"]
+readme = "README.md"
+packages = [{include = "python_for_kids"}]
+
+[tool.poetry.dependencies]
+python = "^3.9"
+mobilechelonian = "^0.5"
+notebook = "^6.5.2"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"

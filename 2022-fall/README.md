@@ -59,7 +59,6 @@ You can also install the packaged Python toolset to your local computer.
 * You can execute the notebook code samples posted via the ![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg) button listed to run the notebook on Google Colab in your browser
 * Github now also provides a free codespace to run the whole code repository (including the notebook code samples) in your browser. Check [here](https://github.com/features/codespaces) for more information.
 
-
 ## Topics to Cover
 * [x] Data types and computations
 * [x] Conditional statements
@@ -86,3 +85,8 @@ If you have questions with regard to this course, please feel free to follow the
 
 如果您有问题，可以通过[这里的 Google Slides](https://docs.google.com/presentation/d/1Q35y-fWR4LwFnihzVuaolTxWZ5rCQaf694ZdCtju6yw/edit#slide=id.g145d4dbaba8_0_164) 所列的联系方式和老师沟通。如果问题是关于编程本身并且希望能和其他同学讨论，您也可以按照上述 Google Slides 所列方式在课程网站上发问。
 
+## Github integration with Colab
+Check this [reference](https://colab.research.google.com/github/googlecolab/colabtools/blob/main/notebooks/colab-github-demo.ipynb)
+
+## Dependency management
+* Reference: https://python-poetry.org/docs/basic-usage/#project-setup

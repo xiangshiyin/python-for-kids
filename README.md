@@ -87,3 +87,6 @@ If you have questions with regard to this course, please feel free to follow the
 
 ## Github integration with Colab
 Check this [reference](https://colab.research.google.com/github/googlecolab/colabtools/blob/main/notebooks/colab-github-demo.ipynb)
+
+## Dependency management
+* Reference: https://python-poetry.org/docs/basic-usage/#project-setup
