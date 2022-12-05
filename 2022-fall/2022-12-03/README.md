@@ -7,7 +7,8 @@ Today, we'll first wrap up the topic from last lecture on iterating through the 
 
 ## Topics to explore
 * **Reading**
-  * TBD
+  * Python Functions [[link](https://www.w3schools.com/python/python_functions.asp)]
+  * Python Functions with Examples [[link](https://www.programiz.com/python-programming/function)]
   
 * **Exercise**
   * TBD

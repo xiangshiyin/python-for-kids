@@ -29,7 +29,7 @@ General schedule: Every Saturday from 9:30AM to 10:20AM
 |  14  | 2022-11-19 | Non-primitive Data Types (part III)                                        | [slides](https://docs.google.com/presentation/d/1lYeeSGJ0Qho1tauvEdsGurLk0A32iPHaUUnomJi-awA/edit#slide=id.p) \| [materials](./2022-11-19/)          |
 |   -  | 2022-11-26 | *No Class*                                 |           |
 |  15  | 2022-12-03 | Function (part I)                                        | [slides](https://docs.google.com/presentation/d/12dUwrwiOAzn6BliIbCGsmsZ5GiWft2t1wI8S6gZYfbc/edit#slide=id.p) \| [materials](./2022-12-03/)          |
-|  16  | 2022-12-10 | Function (part II)                                        |           |
+|  16  | 2022-12-10 | *No Class*                                        |           |
 
 
 ## Software and Tools (编程工具)
