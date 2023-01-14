@@ -35,6 +35,7 @@ General schedule: Every Saturday from 9:30AM to 10:20AM
 |   -  | 2022-12-31 | *No Class*                                 |           |
 |   -  | 2023-01-07 | *No Class*                                 |           |
 |  17  | 2023-01-14 | Function (part III)                                        | [slides](https://docs.google.com/presentation/d/1tKJtLr9hQiKNC__q_LuNOEzKlGCDdbQ5zWc_0qSppY8/edit#slide=id.p) \| [materials](./2022-fall/2023-01-14/)          |
+|  18  | 2023-01-21 | Introduction to Git and Github| [slides]() \| [materials](./2022-fall/2023-01-21/)          |
 
 
 ## Software and Tools (编程工具)
