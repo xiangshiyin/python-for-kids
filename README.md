@@ -34,7 +34,7 @@ General schedule: Every Saturday from 9:30AM to 10:20AM
 |   -  | 2022-12-24 | *No Class*                                 |           |
 |   -  | 2022-12-31 | *No Class*                                 |           |
 |   -  | 2023-01-07 | *No Class*                                 |           |
-|  17  | 2023-01-14 | Function (part III)                                        | [slides](https://docs.google.com/presentation/d/1tKJtLr9hQiKNC__q_LuNOEzKlGCDdbQ5zWc_0qSppY8/edit#slide=id.p) \| [materials](./2022-fall/2023-01-13/)          |
+|  17  | 2023-01-14 | Function (part III)                                        | [slides](https://docs.google.com/presentation/d/1tKJtLr9hQiKNC__q_LuNOEzKlGCDdbQ5zWc_0qSppY8/edit#slide=id.p) \| [materials](./2022-fall/2023-01-14/)          |
 
 
 ## Software and Tools (编程工具)
@@ -75,6 +75,7 @@ You can also install the packaged Python toolset to your local computer.
 * [ ] File input and output
 * [ ] Basic algorithms (search, ranking, etc.)
 * [ ] Applications in math (geometry, probability, linear algebra, etc.)
+* [ ] Classes and objects
 
 More fun stuff to come :-) 
 
