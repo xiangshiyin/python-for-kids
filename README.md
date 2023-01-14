@@ -30,6 +30,11 @@ General schedule: Every Saturday from 9:30AM to 10:20AM
 |   -  | 2022-11-26 | *No Class*                                 |           |
 |  15  | 2022-12-03 | Function (part I)                                        | [slides](https://docs.google.com/presentation/d/12dUwrwiOAzn6BliIbCGsmsZ5GiWft2t1wI8S6gZYfbc/edit#slide=id.p) \| [materials](./2022-fall/2022-12-03/)          |
 |  16  | 2022-12-10 | Function (part II)                                        | [slides](https://docs.google.com/presentation/d/1nJR6TQsmUVSGYcjEullKdMU0WtroxlJn1b6jUMYMQac/edit#slide=id.p) \| [materials](./2022-fall/2022-12-10/)          |
+|   -  | 2022-12-17 | *No Class*                                 |           |
+|   -  | 2022-12-24 | *No Class*                                 |           |
+|   -  | 2022-12-31 | *No Class*                                 |           |
+|   -  | 2023-01-07 | *No Class*                                 |           |
+|  17  | 2023-01-14 | Function (part III)                                        | [slides](https://docs.google.com/presentation/d/1tKJtLr9hQiKNC__q_LuNOEzKlGCDdbQ5zWc_0qSppY8/edit#slide=id.p) \| [materials](./2022-fall/2023-01-13/)          |
 
 
 ## Software and Tools (编程工具)
@@ -63,11 +68,15 @@ You can also install the packaged Python toolset to your local computer.
 * [x] Data types and computations
 * [x] Conditional statements
 * [x] Loops and control statements
-* [ ] Functions
 * [x] String processing
 * [x] Basic data structures
+* [x] Functions
+* [ ] Python libraries
 * [ ] File input and output
-* [ ] Basic algorithms
+* [ ] Basic algorithms (search, ranking, etc.)
+* [ ] Applications in math (geometry, probability, linear algebra, etc.)
+
+More fun stuff to come :-) 
 
 ## References
 There are many resources from both online and offline for Python learning, below are some examples. You don't necessarily need to buy the books listed here, we'll cover all the necessary content in our class and keep introducing corresponding reading materials as the course proceeds.
