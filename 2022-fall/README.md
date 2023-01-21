@@ -35,6 +35,25 @@ General schedule: Every Saturday from 9:30AM to 10:20AM
 |   -  | 2022-12-31 | *No Class*                                 |           |
 |   -  | 2023-01-07 | *No Class*                                 |           |
 |  17  | 2023-01-14 | Function (part III)                                        | [slides](https://docs.google.com/presentation/d/1tKJtLr9hQiKNC__q_LuNOEzKlGCDdbQ5zWc_0qSppY8/edit#slide=id.p) \| [materials](./2023-01-14/)          |
+|  18  | 2023-01-21 | Introduction to Git and Github| [slides](https://docs.google.com/presentation/d/1qz_i_qMgUabG9etnKgCWdsj0_SFi1-ih-wmdHhzKQ-8/edit#slide=id.p) \| [materials](./2023-01-21/)          |
+|  19  | 2023-01-28 | Introduction to Git and Github (part II)| [slides](https://docs.google.com/presentation/d/1a1289OL3w2VrFUuHJdm2g0owMQS-m0t8jVIr3-YTh5g/edit#slide=id.p) \| [materials](./2023-01-28/)          |
+|   -  | 2023-02-04 | *TBD*                                 |           |
+|   -  | 2023-02-11 | *TBD*                                 |           |
+|   -  | 2023-02-18 | *TBD*                                 |           |
+|   -  | 2023-02-25 | *TBD*                                 |           |
+|   -  | 2023-03-04 | *TBD*                                 |           |
+|   -  | 2023-03-11 | *TBD*                                 |           |
+|   -  | 2023-03-18 | *TBD*                                 |           |
+|   -  | 2023-03-25 | *TBD*                                 |           |
+|   -  | 2023-04-01 | *TBD*                                 |           |
+|   -  | 2023-04-08 | *TBD*                                 |           |
+|   -  | 2023-04-15 | *TBD*                                 |           |
+|   -  | 2023-04-22 | *TBD*                                 |           |
+|   -  | 2023-04-29 | *TBD*                                 |           |
+|   -  | 2023-05-06 | *TBD*                                 |           |
+|   -  | 2023-05-13 | *TBD*                                 |           |
+|   -  | 2023-05-20 | *TBD*                                 |           |
+|   -  | 2023-05-27 | *TBD*                                 |           |
 
 
 ## Software and Tools (编程工具)
