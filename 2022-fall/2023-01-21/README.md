@@ -1,22 +1,21 @@
+
+
+- [Lecture 16: Version Control and Git](#lecture-16-version-control-and-git)
+  - [Version control](#version-control)
+    - [Compare two files](#compare-two-files)
+    - [Track file editing history](#track-file-editing-history)
+  - [Version control system (VCS)](#version-control-system-vcs)
+    - [What is it](#what-is-it)
+    - [What is Git](#what-is-git)
+    - [Install Git](#install-git)
+    - [GitHub](#github)
+- [Course materials](#course-materials)
+- [Topics to explore](#topics-to-explore)
+
+
 # Lecture 16: Version Control and Git
-
-## Table of Content
-1. [Version control](#1-version-control)
-  * 1.1. [Compare two files](#11-compare-two-files)
-  * 1.2. [Track file editing history](#12-track-file-editing-history)
-2. [Version control system (VCS)](#2-version-control-system-vcs)
-  * 2.1. [What is it](#21-what-is-it)
-  * 2.2. [What is Git](#22-what-is-git)
-  * 2.3. [Install Git](#23-install-git)
-  * 2.4. [GitHub](#24-github)
-3. [Course materials](#3-course-materials)
-4. [Topics to explore](#4-topics-to-explore)
-
-
-Today, We'll talk abou version control and git.
-
-##  1. Version control
-###  1.1. Compare two files
+##  Version control
+###  Compare two files
 Assume you have two text files and you want to figure out if the two files contain exactly the same information. What would you do?
 * *Method 1*: put two files side by side, eyeball the differences
 * *Method 2*: an automatic way on your computer, use the `diff` command (on Linux or Mac)
@@ -51,17 +50,17 @@ Assume you have two text files and you want to figure out if the two files conta
     Only in 2022-fall/2023-01-14: practice.ipynb
     ```
   (The equivalent command under Windows would be the `fc` command you can run under Command Prompt `fc file1Location file2Location`)
-###  1.2. Track file editing history
+###  Track file editing history
 * The google doc example - edit history
 ![](./version_history_google_doc.png)
 
-##  2. Version control system (VCS)
-###  2.1. What is it
+##  Version control system (VCS)
+###  What is it
+TBD
+###  What is Git
+TBD
 
-###  2.2. What is Git
-
-
-###  2.3. Install Git
+###  Install Git
 * [Official doc](https://git-scm.com/book/en/v2/Getting-Started-Installing-Git) - installation options for different operation systems (Linux, Mac, Windows, etc.)
 * Initialize `git`
   * You can set some global level user information so that `git` knows who is making the code changes, some commands like 
@@ -82,13 +81,13 @@ Assume you have two text files and you want to figure out if the two files conta
 * Common `git` commands  [[*reference*](http://guides.beanstalkapp.com/version-control/common-git-commands.html)]
 
 
-### 2.4 GitHub
+### GitHub
+TBD
 
-
-##  3. Course materials
+#  Course materials
 * [slides](https://docs.google.com/presentation/d/1qz_i_qMgUabG9etnKgCWdsj0_SFi1-ih-wmdHhzKQ-8/edit#slide=id.p)
 
-##  4. Topics to explore
+#  Topics to explore
 * **Reading**
   
   TBD
