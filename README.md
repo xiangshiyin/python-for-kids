@@ -9,51 +9,51 @@ General schedule: Every Saturday from 9:30AM to 10:20AM
 课程时间: 每周六上午 9:30-10:20
 
 地点: 5300 Spalding Dr, Norcross, GA 30092
-| Week |    Date    | Topic                                      | Materials |
-|:----:|:----------:|--------------------------------------------|-----------|
-|   1  | 2022-08-06 | -                                          |           |
-|   2  | 2022-08-13 | -                                          |           |
-|   3  | 2022-08-20 | Introduction to Programming & Python       | [slides](https://docs.google.com/presentation/d/1Q35y-fWR4LwFnihzVuaolTxWZ5rCQaf694ZdCtju6yw/edit#slide=id.p) \| [materials](./2022-fall/2022-08-20/)  |
-|   4  | 2022-08-27 | Computer Mechanism and Basic Data Types   | [slides](https://docs.google.com/presentation/d/1yhaXolwT1iwIWzOgBl6nVFXg3bwOYlraJ9x9LelX7F4/edit#slide=id.p) \| [materials](./2022-fall/2022-08-27/)          |
-|   -  | 2022-09-03 | *No Class*                                   |           |
-|   5  | 2022-09-10 | Hands-on Exercise on Python Expressions and Computations                                        | [slides](https://docs.google.com/presentation/d/1G-Au9Sd85CgBq5EVumfeqC0WizFx9MQU7T3FQLjBN94/edit#slide=id.p) \| [materials](./2022-fall/2022-09-10/)          |
-|   6  | 2022-09-17 | Conditional Statement                                        | [slides](https://docs.google.com/presentation/d/1PQvH6w5AHYLyJNba9uOe2IO-2dW0Bx1otkPZ8d7x_H0/edit#slide=id.p) \| [materials](./2022-fall/2022-09-17/)          |
-|   7  | 2022-09-24 | Conditional Statement (continued)          | [slides](https://docs.google.com/presentation/d/1t8fg9Qi_0eVbpXPO6UXvGf2Femm-Mh1TWrkoObms5MI/edit#slide=id.p) \| [materials](./2022-fall/2022-09-24/)          |
-|   8  | 2022-10-01 | Loops (part I)                                        | [slides](https://docs.google.com/presentation/d/1qRppWIFqPaEbbSGNFsnsdCalyXgjf8ZSUeJgJBu5YmA/edit#slide=id.p) \| [materials](./2022-fall/2022-10-01/)          |
-|   -  | 2022-10-08 | *No Class*                                 |           |
-|   9  | 2022-10-15 | Loops (part II)                                        | [slides](https://docs.google.com/presentation/d/1aiN1WaNgSnSX0rzmtByJRMGHnIRy3pE7tCqZxZsaCeE/edit#slide=id.p) \| [materials](./2022-fall/2022-10-15/)          |
-|  10  | 2022-10-22 | Loops (part III)                                        | [slides](https://docs.google.com/presentation/d/1lzFbE4mquw4y4MZpHUV8dS4kRFaug5gErdhjK7BwlkY/edit#slide=id.p) \| [materials](./2022-fall/2022-10-22/)          |
-|  11  | 2022-10-29 | Loops (part IV)                                        | [slides](https://docs.google.com/presentation/d/17dyShGZN36zQxopGYpMf6v4PI5Y00qB_J5bvyatUjrQ/edit#slide=id.p) \| [materials](./2022-fall/2022-10-29/)          |
-|  12  | 2022-11-05 | Non-primitive Data Types (part I)                                        | [slides](https://docs.google.com/presentation/d/1NTFpRPSDnxgnG-qlmDQymOurtOPmoJ5iXrr2WQbT14c/edit#slide=id.p) \| [materials](./2022-fall/2022-11-05/)          |
-|  13  | 2022-11-12 | Non-primitive Data Types (part II)                                        | [slides](https://docs.google.com/presentation/d/1BmEfO94awu3dIsgYmg0OcYdHcgWxdYKQp7Tz4sGTsNE/edit#slide=id.p) \| [materials](./2022-fall/2022-11-12/)          |
-|  14  | 2022-11-19 | Non-primitive Data Types (part III)                                        | [slides](https://docs.google.com/presentation/d/1lYeeSGJ0Qho1tauvEdsGurLk0A32iPHaUUnomJi-awA/edit#slide=id.p) \| [materials](./2022-fall/2022-11-19/)          |
-|   -  | 2022-11-26 | *No Class*                                 |           |
-|  15  | 2022-12-03 | Function (part I)                                        | [slides](https://docs.google.com/presentation/d/12dUwrwiOAzn6BliIbCGsmsZ5GiWft2t1wI8S6gZYfbc/edit#slide=id.p) \| [materials](./2022-fall/2022-12-03/)          |
-|  16  | 2022-12-10 | Function (part II)                                        | [slides](https://docs.google.com/presentation/d/1nJR6TQsmUVSGYcjEullKdMU0WtroxlJn1b6jUMYMQac/edit#slide=id.p) \| [materials](./2022-fall/2022-12-10/)          |
-|   -  | 2022-12-17 | *No Class*                                 |           |
-|   -  | 2022-12-24 | *No Class*                                 |           |
-|   -  | 2022-12-31 | *No Class*                                 |           |
-|   -  | 2023-01-07 | *No Class*                                 |           |
-|  17  | 2023-01-14 | Function (part III)                                        | [slides](https://docs.google.com/presentation/d/1tKJtLr9hQiKNC__q_LuNOEzKlGCDdbQ5zWc_0qSppY8/edit#slide=id.p) \| [materials](./2022-fall/2023-01-14/)          |
-|  18  | 2023-01-21 | Introduction to Git and Github| [slides](https://docs.google.com/presentation/d/1qz_i_qMgUabG9etnKgCWdsj0_SFi1-ih-wmdHhzKQ-8/edit#slide=id.p) \| [materials](./2022-fall/2023-01-21/)          |
-|  19  | 2023-01-28 | Introduction to Git and Github (part II)| [slides](https://docs.google.com/presentation/d/1a1289OL3w2VrFUuHJdm2g0owMQS-m0t8jVIr3-YTh5g/edit#slide=id.p) \| [materials](./2022-fall/2023-01-28/)          |
-|   -  | 2023-02-04 | *TBD*                                 |           |
-|   -  | 2023-02-11 | *TBD*                                 |           |
-|   -  | 2023-02-18 | *TBD*                                 |           |
-|   -  | 2023-02-25 | *TBD*                                 |           |
-|   -  | 2023-03-04 | *TBD*                                 |           |
-|   -  | 2023-03-11 | *TBD*                                 |           |
-|   -  | 2023-03-18 | *TBD*                                 |           |
-|   -  | 2023-03-25 | *TBD*                                 |           |
-|   -  | 2023-04-01 | *TBD*                                 |           |
-|   -  | 2023-04-08 | *TBD*                                 |           |
-|   -  | 2023-04-15 | *TBD*                                 |           |
-|   -  | 2023-04-22 | *TBD*                                 |           |
-|   -  | 2023-04-29 | *TBD*                                 |           |
-|   -  | 2023-05-06 | *TBD*                                 |           |
-|   -  | 2023-05-13 | *TBD*                                 |           |
-|   -  | 2023-05-20 | *TBD*                                 |           |
-|   -  | 2023-05-27 | *TBD*                                 |           |
+| Week  |    Date    | Topic                                                    | Materials                                                                                                                                              |
+| :---: | :--------: | -------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------ |
+|   -   | 2022-08-06 | *No Class*                                               |                                                                                                                                                        |
+|   -   | 2022-08-13 | *No Class*                                               |                                                                                                                                                        |
+|  01   | 2022-08-20 | Introduction to Programming & Python                     | [slides](https://docs.google.com/presentation/d/1Q35y-fWR4LwFnihzVuaolTxWZ5rCQaf694ZdCtju6yw/edit#slide=id.p) \| [materials](./2022-fall/2022-08-20/)  |
+|  02   | 2022-08-27 | Computer Mechanism and Basic Data Types                  | [slides](https://docs.google.com/presentation/d/1yhaXolwT1iwIWzOgBl6nVFXg3bwOYlraJ9x9LelX7F4/edit#slide=id.p) \| [materials](./2022-fall/2022-08-27/)  |
+|   -   | 2022-09-03 | *No Class*                                               |                                                                                                                                                        |
+|  03   | 2022-09-10 | Hands-on Exercise on Python Expressions and Computations | [slides](https://docs.google.com/presentation/d/1G-Au9Sd85CgBq5EVumfeqC0WizFx9MQU7T3FQLjBN94/edit#slide=id.p) \| [materials](./2022-fall/2022-09-10/)  |
+|  04   | 2022-09-17 | Conditional Statement                                    | [slides](https://docs.google.com/presentation/d/1PQvH6w5AHYLyJNba9uOe2IO-2dW0Bx1otkPZ8d7x_H0/edit#slide=id.p) \| [materials](./2022-fall/2022-09-17/)  |
+|  05   | 2022-09-24 | Conditional Statement (continued)                        | [slides](https://docs.google.com/presentation/d/1t8fg9Qi_0eVbpXPO6UXvGf2Femm-Mh1TWrkoObms5MI/edit#slide=id.p) \| [materials](./2022-fall/2022-09-24/)  |
+|  06   | 2022-10-01 | Loops (part I)                                           | [slides](https://docs.google.com/presentation/d/1qRppWIFqPaEbbSGNFsnsdCalyXgjf8ZSUeJgJBu5YmA/edit#slide=id.p) \| [materials](./2022-fall/2022-10-01/)  |
+|   -   | 2022-10-08 | *No Class*                                               |                                                                                                                                                        |
+|  07   | 2022-10-15 | Loops (part II)                                          | [slides](https://docs.google.com/presentation/d/1aiN1WaNgSnSX0rzmtByJRMGHnIRy3pE7tCqZxZsaCeE/edit#slide=id.p) \| [materials](./2022-fall/2022-10-15/)  |
+|  08   | 2022-10-22 | Loops (part III)                                         | [slides](https://docs.google.com/presentation/d/1lzFbE4mquw4y4MZpHUV8dS4kRFaug5gErdhjK7BwlkY/edit#slide=id.p) \| [materials](./2022-fall/2022-10-22/)  |
+|  09   | 2022-10-29 | Loops (part IV)                                          | [slides](https://docs.google.com/presentation/d/17dyShGZN36zQxopGYpMf6v4PI5Y00qB_J5bvyatUjrQ/edit#slide=id.p) \| [materials](./2022-fall/2022-10-29/)  |
+|  10   | 2022-11-05 | Non-primitive Data Types (part I)                        | [slides](https://docs.google.com/presentation/d/1NTFpRPSDnxgnG-qlmDQymOurtOPmoJ5iXrr2WQbT14c/edit#slide=id.p) \| [materials](./2022-fall/2022-11-05/)  |
+|  11   | 2022-11-12 | Non-primitive Data Types (part II)                       | [slides](https://docs.google.com/presentation/d/1BmEfO94awu3dIsgYmg0OcYdHcgWxdYKQp7Tz4sGTsNE/edit#slide=id.p) \| [materials](./2022-fall/2022-11-12/)  |
+|  12   | 2022-11-19 | Non-primitive Data Types (part III)                      | [slides](https://docs.google.com/presentation/d/1lYeeSGJ0Qho1tauvEdsGurLk0A32iPHaUUnomJi-awA/edit#slide=id.p) \| [materials](./2022-fall/2022-11-19/)  |
+|   -   | 2022-11-26 | *No Class*                                               |                                                                                                                                                        |
+|  13   | 2022-12-03 | Function (part I)                                        | [slides](https://docs.google.com/presentation/d/12dUwrwiOAzn6BliIbCGsmsZ5GiWft2t1wI8S6gZYfbc/edit#slide=id.p) \| [materials](./2022-fall/2022-12-03/)  |
+|  14   | 2022-12-10 | Function (part II)                                       | [slides](https://docs.google.com/presentation/d/1nJR6TQsmUVSGYcjEullKdMU0WtroxlJn1b6jUMYMQac/edit#slide=id.p) \| [materials](./2022-fall/2022-12-10/)  |
+|   -   | 2022-12-17 | *No Class*                                               |                                                                                                                                                        |
+|   -   | 2022-12-24 | *No Class*                                               |                                                                                                                                                        |
+|   -   | 2022-12-31 | *No Class*                                               |                                                                                                                                                        |
+|   -   | 2023-01-07 | *No Class*                                               |                                                                                                                                                        |
+|  15   | 2023-01-14 | Function (part III)                                      | [slides](https://docs.google.com/presentation/d/1tKJtLr9hQiKNC__q_LuNOEzKlGCDdbQ5zWc_0qSppY8/edit#slide=id.p) \| [materials](./2022-fall/2023-01-14/)  |
+|  16   | 2023-01-21 | Introduction to Git and Github                           | [slides](https://docs.google.com/presentation/d/1qz_i_qMgUabG9etnKgCWdsj0_SFi1-ih-wmdHhzKQ-8/edit#slide=id.p) \| [materials](./2022-fall/2023-01-21/)  |
+|  17   | 2023-01-28 | Introduction to Git and Github (part II)                 | [slides](https://docs.google.com/presentation/d/1a1289OL3w2VrFUuHJdm2g0owMQS-m0t8jVIr3-YTh5g/edit#slide=id.p) \| [materials](./2022-fall/2023-01-28/)  |
+|  18   | 2023-02-04 | Python Libraries and How to Use Them                     | [slides](https://docs.google.com/presentation/d/1vzOVB10gz5SWs2NAn4XTrTPJgcqr2_Y8niDloIQi7-A/edit?usp=sharing) \| [materials](./2022-fall/2023-02-04/) |
+|   -   | 2023-02-11 | *TBD*                                                    |                                                                                                                                                        |
+|   -   | 2023-02-18 | *TBD*                                                    |                                                                                                                                                        |
+|   -   | 2023-02-25 | *TBD*                                                    |                                                                                                                                                        |
+|   -   | 2023-03-04 | *TBD*                                                    |                                                                                                                                                        |
+|   -   | 2023-03-11 | *TBD*                                                    |                                                                                                                                                        |
+|   -   | 2023-03-18 | *TBD*                                                    |                                                                                                                                                        |
+|   -   | 2023-03-25 | *TBD*                                                    |                                                                                                                                                        |
+|   -   | 2023-04-01 | *TBD*                                                    |                                                                                                                                                        |
+|   -   | 2023-04-08 | *TBD*                                                    |                                                                                                                                                        |
+|   -   | 2023-04-15 | *TBD*                                                    |                                                                                                                                                        |
+|   -   | 2023-04-22 | *TBD*                                                    |                                                                                                                                                        |
+|   -   | 2023-04-29 | *TBD*                                                    |                                                                                                                                                        |
+|   -   | 2023-05-06 | *TBD*                                                    |                                                                                                                                                        |
+|   -   | 2023-05-13 | *TBD*                                                    |                                                                                                                                                        |
+|   -   | 2023-05-20 | *TBD*                                                    |                                                                                                                                                        |
+|   -   | 2023-05-27 | *TBD*                                                    |                                                                                                                                                        |
 
 
 ## Software and Tools (编程工具)
