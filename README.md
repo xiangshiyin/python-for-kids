@@ -27,7 +27,7 @@ General schedule: Every Saturday from 9:30AM to 10:20AM
 地点: 5300 Spalding Dr, Norcross, GA 30092
 
 ## Course materials
-- [**2022-2023 学年课程安排**](./2022-2023/schedule.md)
+- [**2022-2023 学年课程安排 (School Year 2022-2023)**](./2022-2023/schedule.md)
 
 ## Topics
 * [x] Data types and computations
