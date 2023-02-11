@@ -63,7 +63,16 @@ yy = 2
 
 # Topics to Explore
 ## Reading
-TBD
+Explore the following two libraries (or pick one)
+* `turtle`
+  * Tutorial - https://realpython.com/beginners-guide-python-turtle/
+  * The official doc - https://docs.python.org/3/library/turtle.html
+* `pygame`
+  * Introduction - https://www.pygame.org/docs/tut/PygameIntro.html
+  * The official doc - https://www.pygame.org/docs/
+* `music21` - http://web.mit.edu/music21/
 
 ## Coding
-TBD
+Can you solve the following math problem?
+* Q1: Annie needs to use 1 complete candle each day. When the candles burn out, she could also melt 7 candle ends to make 1 complete candle. Given the fact that Annie has 7 complete candles at the very beginning, how many days can the candles last before she needs to go and buy new ones?
+* Assume Annie has $x$ candles at the very beginning, can you write a function `days(x)` to output the number of days the candles can last before Annie needs to buy new ones?
