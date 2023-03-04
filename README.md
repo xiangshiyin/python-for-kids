@@ -12,6 +12,7 @@
 - [Miscellaneous](#miscellaneous)
   - [Github integration with Colab](#github-integration-with-colab)
   - [Dependency management](#dependency-management)
+  - [Fun stuff](#fun-stuff)
 
 # Introduction
 This is a beginner level class for young kids (Grade 6+). The goal is to introduce Python programming basics and help the young folks build the mind set of solving real life problems with the computer programming framework.
@@ -96,3 +97,6 @@ Check this [reference](https://colab.research.google.com/github/googlecolab/cola
   * Install `poetry` following the instructions [here](https://python-poetry.org/docs/#installation)
   * If you just want to install the listed dependencies in `poetry.lock`, you can run command `poetry install --no-root` [[*reference*](https://python-poetry.org/docs/basic-usage/#installing-dependencies-only)]
   * To activate the default virtualenv, run command `poetry shell` [[*reference*](https://python-poetry.org/docs/basic-usage/#activating-the-virtual-environment)]
+
+## Fun stuff
+* Mermaid diagram [[*link*](https://mermaid.js.org/intro/)]
