@@ -175,5 +175,15 @@ class Cat(Animal):
 # Topics to Explore
 
 ## Reading
+- Python classes and objects [[link](https://www.programiz.com/python-programming/class)]
+- Object oriented programming in Python [[link](https://realpython.com/python3-object-oriented-programming/)]
 
 ## Coding
+- Q1. Create a class `car` that has the followng attributes (properties) and methods (functions)
+  - Attributes 
+    - size (subcompact, compact, mid-size, full-size, suv, truck, van, etc.)
+    - power source
+  - Method
+    - move (feel free to define whatever actions that make sense for this method)
+- Q2. Create an object `tesla` that inheritates the class `car`
+  - Add an additional method `charge` (feel free to define whatever actions that make sense for this method)
