@@ -23,6 +23,7 @@ This is a beginner level class for young kids (Grade 6+). The goal is to introdu
 ## Schedule (课程安排)
 General schedule: 
 * School Year 2022-2023 - Saturday from 9:30AM to 10:20AM (每周六上午 9:30-10:20)
+* School Year 2023-2024 - Saturday from 10:30AM to 12:00PM (每周六上午 10:30-12:00)
 
 地点: 5300 Spalding Dr, Norcross, GA 30092
 
