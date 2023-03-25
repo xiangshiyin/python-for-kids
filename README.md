@@ -81,7 +81,7 @@ There are many resources from both online and offline for Python learning, below
 Example resources:
 * Online resource: [Python Tutorials](https://www.w3schools.com/python/default.asp)
 * Books
-  * [Python for Kids: A Playful Introduction To Programming](https://www.amazon.com/dp/1593274076/ref=redir_mobile_desktop?_encoding=UTF8&aaxitk=d264001a57ba508de8d115d73c988036&content-id=amzn1.sym.53aae2ac-0129-49a5-9c09-6530a9e11786%3Aamzn1.sym.53aae2ac-0129-49a5-9c09-6530a9e11786&hsa_cr_id=3011863920001&pd_rd_plhdr=t&pd_rd_r=776252a2-10dd-42ef-8c8a-60ed3951adb6&pd_rd_w=7SqWT&pd_rd_wg=Inv19&qid=1660940328&ref_=sbx_be_s_sparkle_mcd_asin_0_img&sr=1-1-a094db1c-5033-42c6-82a2-587d01f975e8)
+  * [Python for Kids: A Playful Introduction To Programming](https://a.co/d/agDd8MN)
   * [Introduction to Programming: A Very Brief Text for the Young and Impatient (Python Edition)](https://www.amazon.com/Introduction-Programming-Brief-Impatient-Python/dp/B09XZMPRV2/ref=sr_1_1?crid=KVSEJZAOX92P&keywords=introduction+to+programming+hong+gongbing&qid=1660940380&s=books&sprefix=introduction+to+programming+hong+gongbing%2Cstripbooks%2C84&sr=1-1)
 
 # Contact
