@@ -17,13 +17,12 @@
 # Introduction
 This is a beginner level class for young kids (Grade 6+). The goal is to introduce Python programming basics and help the young folks build the mind set of solving real life problems with the computer programming framework.
 
-这是一门针对青少年的Python编程课，旨在普及基本的Python编程知识，帮助学生培养通过计算机编程解决实际问题的思维方式。
+这是一门针对青少年的Python编程课，旨在普及基本的Python编程知识，帮助学生培养通过计算机编程解决实际问题的思维方式。课程内容涵盖基本的数据结构，模块控制，基本算法，基本数学和统计应用，以及常用的编程工具和package介绍。每节课会有相应的实际操作环节，同时课后也会安排相应的阅读和调研任务，激发学生独立研究问题的能力
 
 
 ## Schedule (课程安排)
-General schedule: Every Saturday from 9:30AM to 10:20AM
-
-课程时间: 每周六上午 9:30-10:20
+General schedule: 
+* School Year 2022-2023 - Saturday from 9:30AM to 10:20AM (每周六上午 9:30-10:20)
 
 地点: 5300 Spalding Dr, Norcross, GA 30092
 
