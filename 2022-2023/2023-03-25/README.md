@@ -15,6 +15,19 @@ We will continue the topic of file input/output with Python.  Please refer to th
 # Topics to Explore
 
 ## Reading
+* Introduction to time complexity [[reference](https://www.freecodecamp.org/news/time-complexity-of-algorithms/)]
+* Binary search [[reference](https://www.khanacademy.org/computing/computer-science/algorithms/binary-search/a/binary-search)]
 
 ## Coding
+* Write a program to create a text file `line_numbers.txt` which has 100 lines of content. Each line should have a leading number indicating the corresponding line number, such as
+  ```
+  1: 
+  2: 
+  3:
 
+  ...
+  ...
+
+  99:
+  100:
+  ```

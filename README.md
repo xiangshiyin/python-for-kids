@@ -38,8 +38,9 @@ General schedule: Every Saturday from 9:30AM to 10:20AM
 * [x] Basic data structures
 * [x] Functions
 * [x] Python libraries
+* [x] Git and version control
 * [x] Classes and objects
-* [ ] File input and output
+* [x] File input and output
 * [ ] Basic algorithms (search, ranking, etc.)
 * [ ] Applications in math (geometry, probability, linear algebra, etc.)
 
