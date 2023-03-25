@@ -58,7 +58,7 @@ You can also install the packaged Python toolset to your local computer.
   * For Windows user with a 32-bit operation system, you can download `32-Bit Graphical Installer (488 MB)`
 * If we need to use the local coding environment, we will go over the installation procedures together in our first class.
 
-如果场地网络信号不佳，我们可以尝试在本地电脑安装软件来实现程序编写和运行。**希望您课前**可以通过 https://www.anaconda.com/products/ 下载软件Anaconda到您的电脑，**您无需课前安装**。如果需要，我们会在课上一起安装这一软件，确保所有同学都能顺利设置编程环境。
+如果场地网络信号不佳，我们可以尝试在本地电脑安装软件来实现程序编写和运行。**希望您课前**可以通过 https://www.anaconda.com/products/distribution 下载软件Anaconda到您的电脑，**您无需课前安装**。如果需要，我们会在课上一起安装这一软件，确保所有同学都能顺利设置编程环境。
   * 如果您是 Mac 用户, 您可以下载 `64-Bit Graphical Installer (591 MB)`
   * 如果您是 Windows 64位操作系统用户，您可以下载 `64-Bit Graphical Installer (594 MB)`
   * 如果您是 Windows 32位操作系统用户，您可以下载 `32-Bit Graphical Installer (488 MB)`

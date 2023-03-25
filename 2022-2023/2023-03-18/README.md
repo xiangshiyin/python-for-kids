@@ -1,6 +1,6 @@
 
 **Table of Content**
-- [Lecture 23: File Input and Output in Python](#lecture-23-file-input-and-output-in-python)
+- [Lecture 23: File Input and Output in Python (part I)](#lecture-23-file-input-and-output-in-python-part-i)
   - [File input/output (I/O)](#file-inputoutput-io)
     - [General usage](#general-usage)
     - [Caveat](#caveat)
@@ -11,7 +11,7 @@
   - [Coding](#coding)
 
 
-# Lecture 23: File Input and Output in Python
+# Lecture 23: File Input and Output in Python (part I)
 
 ## File input/output (I/O) 
 ### General usage
