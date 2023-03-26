@@ -2,11 +2,13 @@
 - [Introduction](#introduction)
   - [Schedule (课程安排)](#schedule-课程安排)
   - [Course materials](#course-materials)
+  - [Download course materials](#download-course-materials)
   - [Topics](#topics)
 - [Software and Tools (编程工具)](#software-and-tools-编程工具)
   - [Internet @ ACCA](#internet--acca)
   - [Local coding tools](#local-coding-tools)
     - [`Anaconda` (**suggested**)](#anaconda-suggested)
+    - [`Visual Studio Code`](#visual-studio-code)
   - [Online coding tools](#online-coding-tools)
     - [`replit`](#replit)
     - [Google Colab (notebook)](#google-colab-notebook)
@@ -33,6 +35,9 @@ General schedule:
 
 ## Course materials
 - [**2022-2023 学年课程安排 (School Year 2022-2023)**](./2022-2023/README.md)
+
+## Download course materials
+You can follow the instruction [here](./docs/access_course_materials.md)
 
 ## Topics
 * [x] Data types and computations
@@ -79,6 +84,9 @@ Install the well packaged Python toolset to your local computer
   * 如果您是 Mac 用户, 您可以下载 `64-Bit Graphical Installer (591 MB)`
   * 如果您是 Windows 64位操作系统用户，您可以下载 `64-Bit Graphical Installer (594 MB)`
   * 如果您是 Windows 32位操作系统用户，您可以下载 `32-Bit Graphical Installer (488 MB)`
+
+### `Visual Studio Code`
+You can download and install visual studio code (`vscode`) follow the link https://code.visualstudio.com/
 
 ## Online coding tools
 ### `replit`
