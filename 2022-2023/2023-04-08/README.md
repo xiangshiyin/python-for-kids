@@ -15,4 +15,5 @@ In today's class, we'll use all the skills we learnt so far to explore the Harry
 TBD
 
 ## Coding
-TBD
+* Can you figure out a different way to remove the punctuation marks in a string?
+* Can you figure out a different way to rank words by their frequencies?
