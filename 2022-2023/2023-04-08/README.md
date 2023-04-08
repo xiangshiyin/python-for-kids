@@ -1,13 +1,13 @@
 
 **Table of Content**
-- [Lecture 25: Algorithm - Binary Search](#lecture-25-algorithm---binary-search)
+- [Lecture 25: (Hands-on) Read the Harry Potter Book](#lecture-25-hands-on-read-the-harry-potter-book)
 - [Topics to Explore](#topics-to-explore)
   - [Reading](#reading)
   - [Coding](#coding)
 
 
-# Lecture 25: Algorithm - Binary Search
-TBD
+# Lecture 25: (Hands-on) Read the Harry Potter Book
+In today's class, we'll use all the skills we learnt so far to explore the Harry Potter Book and see if there is any pattern in the book.
 
 # Topics to Explore
 

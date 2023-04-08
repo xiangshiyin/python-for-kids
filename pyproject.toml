@@ -13,6 +13,7 @@ notebook = "^6.5.2"
 ipython = "^8.9.0"
 matplotlib = "^3.6.3"
 numpy = "^1.24.1"
+nltk = "^3.8.1"
 
 
 [build-system]
