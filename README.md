@@ -50,8 +50,8 @@ You can follow the instruction [here](./docs/access_course_materials.md)
 * [x] Git and version control
 * [x] Classes and objects
 * [x] File input and output
-* [ ] Basic algorithms (search, ranking, etc.)
-* [ ] Applications in math (geometry, probability, linear algebra, etc.)
+* [x] Basic algorithms (search, ranking, etc.)
+* [x] Applications in math (geometry, probability, linear algebra, etc.)
 
 More fun stuff to come :-) 
 
