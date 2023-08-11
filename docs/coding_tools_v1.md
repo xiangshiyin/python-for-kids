@@ -30,7 +30,7 @@ If you choose online coding tools, you would need internet connections during ou
 
 ### Option 1: `Python` application (**RECOMMENDED**)
 Install "vanilla" version `Python` application to your local computer
-* Please download `Python` via the link https://www.python.org/downloads/
+* Please download and install `Python` via the link https://www.python.org/downloads/
   * You can choose the corresponding link to download the version that matches your computer's operation system ![](./pics/download-python.png)
 ### Option 2: `Anaconda` (a package with `Python` application and all commonly used python libraries for analytics and modeling)
 Install the well packaged Python toolset to your local computer
