@@ -10,9 +10,9 @@
 # Lecture 01: Introduction to Programming & Python
 
 ## Lecture topics
-* Get to know each other
-* Learn about computer programming in general and Pythong as a programming language
-* Set up and get familiar with the coding environment
+* [x] Get to know each other
+* [x] Learn about computer programming in general and Pythong as a programming language
+* [ ] Set up and get familiar with the coding environment
     * Have `python` installed
     * Get familiar with `IDLE`
     * Brief introduction to `replit`
@@ -62,4 +62,8 @@
 * [slides](https://docs.google.com/presentation/d/1RcMmaIqXb1f_tszkQL703S8BBQ6OMKSMU_eVQenZsyY/edit?usp=sharing)
 
 ## Topics to explore
+* Python installation
+  * Follow the instructions listed [here](../../docs/coding_tools_v1.md#local-coding-tools) to install the `Python` application for our offline coding exercise in class
+    * Let's start with [option 1](https://github.com/xiangshiyin/python-for-kids/blob/main/docs/coding_tools_v1.md#option-1-python-application-recommended) for now
+  * If time allows, follow the example [here](https://sites.pitt.edu/~naraehan/python3/getting_started_win_first_try.html) to get yourself familiar with `IDLE`
 * General Python FAQ [[link](https://docs.python.org/3/faq/general.html#why-is-it-called-python)]

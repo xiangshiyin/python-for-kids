@@ -1,4 +1,7 @@
 
+Last updated: {{ site.time | date: '%Y-%m-%d %H:%M:%S %z' }}
+
+**Table of Contents**
 - [Software and Tools (编程工具)](#software-and-tools-编程工具)
   - [Internet @ ACCA](#internet--acca)
   - [Local coding tools](#local-coding-tools)
@@ -16,17 +19,12 @@ You can pick either local or online programming tools to practice coding. Please
 您可以选择线下或者线上的编程工具实现编程练习和操作，请您按照下列方式在课前设置好编程环境。如果您遇到问题可以联系老师，我们可以一起想办法解决。
 
 ## Internet @ ACCA
-If you choose online coding tools, you would need internet connections during our class. Please follow the instructions [here](https://docs.google.com/document/d/11eFQRPvOztVvnZBlLF-Yvn--7tIW3Yin) to connect the wifi network in the school campus
-* **You would need to recreate internet connection credentials every 7 days**
-
-如果您选择线上工具，您需要在上课时用电脑上网，相应的联网方式可以按照[这里](https://docs.google.com/document/d/11eFQRPvOztVvnZBlLF-Yvn--7tIW3Yin)的说明。
-* **您需要每隔7天重设一次网络登录账户**
-
-
-**Since internet connection is not so convenient in the ACCA campus, local coding tools below are PREFERRED.**
+<span style="color:red; font-weight:bold;">Internet connection is not so convenient in the ACCA campus, local coding tools below are REQUIRED in our class.</span> However, if you prefer to use the online coding tool after class, feel free to explore them and let me know if you have any questions.
 
 
 ## Local coding tools
+
+<span style="color:red; font-weight:bold;">You can pick one of the 2 options listed below:</span>
 
 ### Option 1: `Python` application (**RECOMMENDED**)
 Install "vanilla" version `Python` application to your local computer
