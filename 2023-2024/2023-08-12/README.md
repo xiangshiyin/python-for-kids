@@ -65,5 +65,13 @@
 * Python installation
   * Follow the instructions listed [here](../../docs/coding_tools_v1.md#local-coding-tools) to install the `Python` application for our offline coding exercise in class
     * Let's start with [option 1](https://github.com/xiangshiyin/python-for-kids/blob/main/docs/coding_tools_v1.md#option-1-python-application-recommended) for now
+    * If you are interested to explore `Anaconda` in [option 2](https://github.com/xiangshiyin/python-for-kids/blob/main/docs/coding_tools_v1.md#option-2-anaconda-a-package-with-python-application-and-all-commonly-used-python-libraries-for-analytics-and-modeling), feel free to do so
   * If time allows, follow the example [here](https://sites.pitt.edu/~naraehan/python3/getting_started_win_first_try.html) to get yourself familiar with `IDLE`
 * General Python FAQ [[link](https://docs.python.org/3/faq/general.html#why-is-it-called-python)]
+* [**In-depth research**] Philp and Jason asked in our class about how compiler works for a programming language. I did some further digging after class and thought these 2 online posts might be helpful to understand the process (there must be more helpful resources online, so please don't stop exploring if you are interested). **It could well be a good course project later to create our own programming language!!**
+  * [Writing your compiler with Python](https://medium.com/@marcelogdeandrade/writing-your-own-programming-language-and-compiler-with-python-a468970ae6df)
+    * You don't need to dive into the details bout the code the author presented, just try to get a high level picture from this post
+  * [gcc compilation under the hood](https://medium.com/@schambig/gcc-compilation-under-the-hood-c3b7c1908c92)
+    * A good post to understand how `gcc` works
+
+
