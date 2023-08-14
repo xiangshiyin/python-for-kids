@@ -1,5 +1,5 @@
 
-**Last updated: 8/13/2023**
+**Last edited: 8/13/2023**
 
 **Table of Contents**
 - [Software and Tools (编程工具)](#software-and-tools-编程工具)
