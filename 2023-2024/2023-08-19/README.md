@@ -7,20 +7,21 @@
   - [Course materials](#course-materials)
   - [Topics to explore](#topics-to-explore)
     - [Read](#read)
+    - [Exercise](#exercise)
 
 
 # Lecture 02: Variable and Data
 
 ## Lecture topics
-* [ ] Different ways to run Python code
+* [x] Different ways to run Python code
   * `IDLE` [[link](https://docs.python.org/3/library/idle.html)] - Python's integrated development and learning environment
     * **THIS WILL BE THE PRIMARY CODING TOOL IN OUR CLASS**
   * The `Python Interpreter` [[link](https://docs.python.org/3/tutorial/interpreter.html)]
     * Run a `*.py` script from command line
   * `ipython` [[link](https://ipython.readthedocs.io/en/stable/)] - An interactive Python interpreter (it should come with the Anaconda installation)
   * `replit` - https://replit.com
-* [ ] Variables
-* [ ] Hands-on practice
+* [x] Variables
+* [x] Hands-on practice
 
 ## Concepts
 ### Variable
@@ -35,4 +36,21 @@
 ## Topics to explore
 ### Read
 * The *Von Neumann architecture* [[wikipedia](https://en.wikipedia.org/wiki/Von_Neumann_architecture)]
-* 
+* Jason had some questions about the usage of indentations in python, [here](https://www.askpython.com/python/python-indentation) is a good read
+### Exercise
+* Run the following code and see if you can understand what it does in each line of the code
+  ```python
+  import turtle
+
+  t = turtle.Turtle()
+
+  t.forward(100)
+  t.right(90)
+  t.forward(100)
+  t.right(90)
+  t.forward(100)
+  t.right(90)
+  t.forward(100)
+  t.right(90)
+  turtle.done()
+  ```
