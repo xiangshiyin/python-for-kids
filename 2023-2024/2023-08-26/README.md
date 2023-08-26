@@ -11,7 +11,7 @@
 # Lecture 03: Primitive Data Types and Practices
 
 ## Lecture topics
-* [ ] Code exploration recap
+* [x] Code exploration recap
   * Revisit the following code sample
     ```python
     import turtle
@@ -31,9 +31,9 @@
   * Can you plot a different shape?
     * Rectangle
     * Triangle - equilateral triangle
-    * Pentagon
+    * Pentagon (**homework**)
     * Hexagon
-* [ ] Numeric Data
+* [x] Numeric Data
   * Common arithmetic operations
     | Operation | Result                           |
     | --------- | -------------------------------- |
@@ -52,7 +52,7 @@
     * How many different numbers can a byte represent?
     * How to tell if an input number is even or odd?
     * Find out all the factors of a given integer
-* [ ] String Data
+* [ ] String Data (didn't get time to cover)
   * Use different quotation marks
   * Special characters
   * Check the length of a string with `len()`
@@ -76,6 +76,20 @@
 
 ## Topics to explore
 ### Read
-* TBD
+We used the Python library `turtle` and made some fun drawings in our class. Here are some relevant reading for this Python library if you want to learn more and make more interesting shapes with it
+* A quick tutorial on `turtle` [[link](https://docs.python.org/3/library/turtle.html#tutorial)]
+
 ### Exercise
-* TBD
+* Q1: Write a program to draw a regular pentagon with `turtle` and make sure all five sides are of the same length.
+  * Hint: make changes on top of the code samples we used in our class today. Can you figure out the right size of angle to turn in the program?
+* Q2: Allie and Philip were asking how to draw a circle with `turtle`. Here is one example you could play with. 
+  ```python
+  # draw a circle with Turtle
+  import turtle
+
+  t = turtle.Turtle()
+  radius = 100
+  t.circle(radius)
+  turtle.done()
+  ```
+* 
