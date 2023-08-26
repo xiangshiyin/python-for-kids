@@ -7,3 +7,4 @@
 |    -    | 2023-08-05 | **No Class**                         |                       |
 |   01    | 2023-08-12 | Introduction to Programming & Python | [link](./2023-08-12/) |
 |   02    | 2023-08-19 | Variable and Data                    | [link](./2023-08-19/) |
+|   03    | 2023-08-19 | Primitive Data Types and Practices   | [link](./2023-08-26/) |
