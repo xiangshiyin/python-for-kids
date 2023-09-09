@@ -30,13 +30,27 @@
       * `<lower_index>` is inclusive
       * `<upper_index>` is exclusive
       * Negative indexing
+    * `f-string`
+      * ```python
+        a = 3
+        b = 2
+        c = a + b
+        f'{b} plus {a} is {c}'      
+        ```
+    * Alignment format
+      * `"{:>10}".format("Test")`
+      * `"{:<10}".format("Test")`
+      * `"{:^10}".format("Test")`
+      * A different approach
+        * `"Test".ljust(10, '*')`
+        * `"Test".rjust(10, '*')`
+        * `"Test".center(10, '*')`
     * Practice
       * For an input name, find out the total length
       * For an input name, find out the first and last names
       * Introduce a person based on information input from keyboard
       * Check if a string is a part of another string
         * What is the first occurrence?
-      * `f-string`
       * Bake a cake!!
   
 
