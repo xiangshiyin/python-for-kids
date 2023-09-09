@@ -1,6 +1,6 @@
 
 **Table of Contents**
-- [Lecture 03: Primitive Data Types and Practices](#lecture-03-primitive-data-types-and-practices)
+- [Lecture 03: Primitive Data Types and Practices (Part I)](#lecture-03-primitive-data-types-and-practices-part-i)
   - [Lecture topics](#lecture-topics)
   - [Course materials](#course-materials)
   - [Topics to explore](#topics-to-explore)
@@ -8,7 +8,7 @@
     - [Exercise](#exercise)
 
 
-# Lecture 03: Primitive Data Types and Practices
+# Lecture 03: Primitive Data Types and Practices (Part I)
 
 ## Lecture topics
 * [x] Code exploration recap
