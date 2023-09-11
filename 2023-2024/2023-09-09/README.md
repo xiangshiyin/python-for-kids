@@ -11,7 +11,7 @@
 # Lecture 04: Primitive Data Types and Practices (part II)
 
 ## Lecture topics
-* [ ] Code assignment recap
+* [x] Code assignment recap
   * Q1. Draw a regular pentagon with `turtle`
   * Q2. Draw a circle with `turtle`
   * Q3. Draw a shape like below ![](./special_shape.png)
