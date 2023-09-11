@@ -18,7 +18,7 @@
 * More practices on numbers
   * How many different numbers can a *byte* represent?
     * [`Decimal` system](https://en.wikipedia.org/wiki/Decimal) vs. [`Binary` system](https://en.wikipedia.org/wiki/Binary_number)
-* [ ] String Data
+* [x] String Data
   * Use different quotation marks
   * Special characters
   * Check the length of a string with `len()`
@@ -60,7 +60,12 @@
 
 ## Topics to explore
 ### Read
-TBD
+* Read about `f-string` [[reference](https://www.geeksforgeeks.org/formatted-string-literals-f-strings-python/)]
 
 ### Exercise
-TBD
+* Review the code presented in our Saturday class
+  * [sample_1.py](./sample_1.py)
+  * [sample_2.py](./sample_2.py)
+  * [sample_3.py](./sample_3.py)
+  * [sample_4.py](./sample_4.py)
+  * [code_demo.py](./code_demo.py)
