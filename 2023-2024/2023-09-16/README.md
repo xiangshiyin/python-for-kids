@@ -92,10 +92,10 @@
     | `or`, `\|` | OR      |
     | `not`, `!` | NOT     |
   * [ ] Practice
-    * Check if the input number is divisible by number 3
-    * Check if the input number is divisible by number 6
-    * Check if the input number is divisible by either 3 and 6
-    * Check if the input number is divisible by either 3 or 6
+    * Check if the input number is divisible by number 2
+    * Check if the input number is divisible by number 4
+    * Check if the input number is divisible by either 2 and 4
+    * Check if the input number is divisible by either 2 or 4
 
 
 ## Course materials
