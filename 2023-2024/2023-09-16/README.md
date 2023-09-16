@@ -32,16 +32,12 @@
       print('{} plus {} is {}'.format(b, a, c))
       print('{B} plus {A} is {C}'.format(B=b, A=a, C=c))
       ```
-  * [ ] Alignment format
-    * `"{:>10}".format("Test")`
-    * `"{:<10}".format("Test")`
-    * `"{:^10}".format("Test")`
-    * A different approach
+  * [ ] Alignment format ([read more](https://www.geeksforgeeks.org/python-string-ljust-rjust-center/))
       * `"Test".ljust(10, '*')`
       * `"Test".rjust(10, '*')`
       * `"Test".center(10, '*')`
   * [ ] Practice
-    * Introduce a person based on information input from keyboard
+    * Introduce a person based on input from the keyboard
         ```
         Type in your first name: xx
         Type in your last name: xxxx
@@ -65,8 +61,31 @@
         >> Output: The 1st string ab is in the 2nd string bcabcdabcde
         >> Output: The first occurrence of string ab in the 2nd string bcabcdabcde is at position 2
         ```
-    * Bake a cake!!
-  
+    * Can you bake me a cake like this?
+        ```
+                                                0000000000                                             
+                                                0000000000                                             
+                                                0000000000                                             
+                                           00000000000000000000                                        
+                                           00000000000000000000                                        
+                                           00000000000000000000                                        
+                                 0000000000000000000000000000000000000000                              
+                                 0000000000000000000000000000000000000000                              
+                                 0000000000000000000000000000000000000000         
+        ```
+* [ ] Boolean - `True/False`
+  * [ ] Comparison is the most common way to generate `True/False` values
+    | Operator | Meaning                         |
+    | -------- | ------------------------------- |
+    | A > B    | A is greater than B             |
+    | A < B    | A is smaller than B             |
+    | A == B   | A is equal to B                 |
+    | A != B   | A is not equal to B             |
+    | A >= B   | A is greater than or equal to B |
+    | A <= B   | A is smaller than or equal to B |
+  * Evaluating if a `fact` is (`equal to`) `True` could also generate `True/False` values
+    * `'ab' in 'abc'`
+  * [ ] Logical operators - Consider multiple scenarios
 
 
 ## Course materials
