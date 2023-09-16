@@ -86,10 +86,20 @@
   * Evaluating if a `fact` is (`equal to`) `True` could also generate `True/False` values
     * `'ab' in 'abc'`
   * [ ] Logical operators - Consider multiple scenarios
+    | Operator   | Meaning |
+    | ---------- | ------- |
+    | `and`, `&` | AND     |
+    | `or`, `\|` | OR      |
+    | `not`, `!` | NOT     |
+  * [ ] Practice
+    * Check if the input number is divisible by number 3
+    * Check if the input number is divisible by number 6
+    * Check if the input number is divisible by either 3 and 6
+    * Check if the input number is divisible by either 3 or 6
 
 
 ## Course materials
-* [slides](TBD)
+* [slides](https://docs.google.com/presentation/d/1_tSq05rTBsNlgAnTkXC-PN_KMQmqDj5xYVHZIDz3m6w/edit?usp=sharing)
 
 ## Topics to explore
 ### Read
