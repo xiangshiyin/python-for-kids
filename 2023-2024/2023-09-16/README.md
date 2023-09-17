@@ -11,14 +11,14 @@
 # Lecture 05: Primitive Data Types and Practices (part III)
 
 ## Lecture topics
-* [ ] String Data
-  * [ ] String indexing
+* [x] String Data
+  * [x] String indexing
     * Each character of the string is assigned a index number representing its position in the string, and index number starts from 0
     * General indexing format - `StringValue[<lower_index>:<upper_index>]`
       * `<lower_index>` is inclusive
       * `<upper_index>` is exclusive
       * Negative indexing
-  * [ ] `f-string` vs. `format()` - You could make the string value dynamic!!
+  * [x] `f-string` vs. `format()` - You could make the string value dynamic!!
     * ```python
       a = 3
       b = 2
@@ -32,11 +32,11 @@
       print('{} plus {} is {}'.format(b, a, c))
       print('{B} plus {A} is {C}'.format(B=b, A=a, C=c))
       ```
-  * [ ] Alignment format ([read more](https://www.geeksforgeeks.org/python-string-ljust-rjust-center/))
+  * [x] Alignment format ([read more](https://www.geeksforgeeks.org/python-string-ljust-rjust-center/))
       * `"Test".ljust(10, '*')`
       * `"Test".rjust(10, '*')`
       * `"Test".center(10, '*')`
-  * [ ] Practice
+  * [x] Practice
     * Introduce a person based on input from the keyboard
         ```
         Type in your first name: xx
@@ -54,7 +54,7 @@
         Type in the 2nd string: bcd
         >> Output: The 1st string ab is not in the 2nd string bcd
         ```
-    * What is the first occurrence?
+    * ~~What is the first occurrence?~~ (didn't get time to cover)
         ```
         Type in the 1st string: ab
         Type in the 2nd string: bcabcdabcde
@@ -73,7 +73,7 @@
                                  0000000000000000000000000000000000000000                              
                                  0000000000000000000000000000000000000000         
         ```
-* [ ] Boolean - `True/False`
+* ~~[ ] Boolean - `True/False`~~ (didn't get time to cover)
   * [ ] Comparison is the most common way to generate `True/False` values
     | Operator | Meaning                         |
     | -------- | ------------------------------- |
@@ -103,7 +103,8 @@
 
 ## Topics to explore
 ### Read
-* TBD
+* Review the code samples from our class
+* Boolean data type in Python [[reference](https://www.geeksforgeeks.org/boolean-data-type-in-python/)]
 
 ### Exercise
-* TBD
+* Can you follow [the pattern](./sample_6.py) used by the end of our class to print a pattern like below?
