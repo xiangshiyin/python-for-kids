@@ -107,4 +107,4 @@
 * Boolean data type in Python [[reference](https://www.geeksforgeeks.org/boolean-data-type-in-python/)]
 
 ### Exercise
-* Can you follow [the pattern](./sample_6.py) used by the end of our class to print a pattern like below?
+* Can you follow the pattern([sample_5](./sample_5.py), [sample_6](./sample_6.py)) used by the end of our class to print a pattern like below? ![](./arrow.png)
