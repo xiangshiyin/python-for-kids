@@ -11,3 +11,4 @@
 |    -    | 2023-09-02 | **No Class**                                  |                       |
 |   04    | 2023-09-09 | Primitive Data Types and Practices (part II)  | [link](./2023-09-09/) |
 |   05    | 2023-09-16 | Primitive Data Types and Practices (part III) | [link](./2023-09-16/) |
+|   06    | 2023-09-23 | Boolean and Condition                         | [link](./2023-09-23/) |
