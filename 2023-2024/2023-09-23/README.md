@@ -12,7 +12,7 @@
 
 ## Lecture topics
 * String
-  * [ ] Practice - **Follow a pattern, create your own code**
+  * [x] Practice - **Follow a pattern, create your own code**
     * Can you follow the pattern([pattern_1](../2023-09-16/sample_5.py), [pattern_2](../2023-09-16//sample_6.py)) used by the end of our class to print a pattern like below?![](../2023-09-16//arrow.png)
     * **How about this one?** - What is the first occurrence of `str1` in `str2`?
         ```
@@ -21,8 +21,8 @@
         >> Output: The 1st string ab is in the 2nd string bcabcdabcde
         >> Output: The first occurrence of string ab in the 2nd string bcabcdabcde is at position 2
         ```
-* [ ] Boolean - `True/False`
-  * [ ] Comparison is the most common way to generate `True/False` values
+* [x] Boolean - `True/False`
+  * [x] Comparison is the most common way to generate `True/False` values
     | Operator | Meaning                         |
     | -------- | ------------------------------- |
     | A > B    | A is greater than B             |
@@ -31,20 +31,20 @@
     | A != B   | A is not equal to B             |
     | A >= B   | A is greater than or equal to B |
     | A <= B   | A is smaller than or equal to B |
-  * [ ] Evaluating if a `fact` is (`equal to`) `True` could also generate `True/False` values
+  * [x] Evaluating if a `fact` is (`equal to`) `True` could also generate `True/False` values
     * `'ab' in 'abc'`
-  * [ ] Logical operators - Consider multiple scenarios
+  * [ ] ~~Logical operators - Consider multiple scenarios~~ (didn't get time to cover)
     | Operator   | Meaning |
     | ---------- | ------- |
     | `and`, `&` | AND     |
     | `or`, `\|` | OR      |
     | `not`, `!` | NOT     |
-  * [ ] Practice
+  * [ ] ~~Practice~~ (didn't get time to cover)
     * Check if the input number is divisible by number 2
     * Check if the input number is divisible by number 4
     * Check if the input number is divisible by either 2 and 4
     * Check if the input number is divisible by either 2 or 4
-* [ ] `Indentation` in Python
+* [ ] ~~`Indentation` in Python~~ (didn't get time to cover)
   * The Python language design is distinguished by its emphasis on readability, simplicity, and explicitness. Some people go so far as to liken it to "executable pseudocode"
   * Python uses whitespace (tabs or spaces) to structure code instead of using braces as in many other languages like R, C++, Java, and Perl. Consider a for loop from a sorting algorithm, such as:
       ```python
@@ -77,7 +77,13 @@
 
 ## Topics to explore
 ### Read
-TBD
+* `if-else` statement in Python [[reference](https://www.w3schools.com/python/python_conditions.asp)]
 
 ### Exercise
-TBD
+* We wrote a program for a number guess game [[code is here](./sample_8.py)]. Can you make some changes to introduce the following enhancements?
+  * When game starts
+    * Print messages on the screen to inform the player the range of numbers they should consider
+    * Print messages on the screen to inform the player how many chances they have
+  * Whenever the player provides a wrong answer, provide clues on the screen to help guide the player to the right direction
+    * Something like `"warmer"` (they are getting closer to the right answer) or `"colder"` (they are getting farther from the right answer)
+  * When there is only one chance left, print messages on the screen to inform the player they only have one last chance
