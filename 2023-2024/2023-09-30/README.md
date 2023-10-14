@@ -11,8 +11,8 @@
 # Lecture 07: Conditional Statements (part II)
 
 ## Lecture topics
-* [ ] Different conditional structures
-  * [ ] Practice
+* [x] Different conditional structures
+  * [x] Practice
     * Even vs. odd number
     * Check if the input number is divisible by number 2
     * Check if the input number is divisible by number 4
@@ -20,7 +20,7 @@
     * Check if the input number is divisible by either 2 or 4
     * Celcius to Farenheit conversion and temperature reminder
     * Draw different shapes based on input requests
-* [ ] `Indentation` in Python
+* [x] `Indentation` in Python
   * The Python language design is distinguished by its emphasis on readability, simplicity, and explicitness. Some people go so far as to liken it to "executable pseudocode"
   * Python uses whitespace (tabs or spaces) to structure code instead of using braces as in many other languages like R, C++, Java, and Perl. Consider a for loop from a sorting algorithm, such as:
       ```python
