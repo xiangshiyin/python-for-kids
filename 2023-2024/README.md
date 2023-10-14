@@ -13,4 +13,5 @@
 |   05    | 2023-09-16 | Primitive Data Types and Practices (part III) | [link](./2023-09-16/) |
 |   06    | 2023-09-23 | Boolean and Condition                         | [link](./2023-09-23/) |
 |   07    | 2023-09-30 | Conditional Statement (part II)               | [link](./2023-09-30/) |
-|   08    | 2023-10-07 | **No Class**                                  |                       |
+|    -    | 2023-10-07 | **No Class**                                  |                       |
+|   08    | 2023-10-14 | Loops (part I)                                | [link](./2023-10-14/) |
