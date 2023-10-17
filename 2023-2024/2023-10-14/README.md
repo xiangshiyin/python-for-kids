@@ -10,12 +10,15 @@
 
 ## Topics
 Here are the topics we are going to cover
-* [ ] Get familiar with `while` loop in Python
-* [ ] Applications of `while` loop
+* [x] Get familiar with `while` loop in Python
+* [x] Applications of `while` loop
 
 
 ## Concepts
-* TBD
+* 3 components needed for a looping logic
+  * A condition to evaluate
+  * A logic to execute when condition is met
+  * A changing factor that could contribute to the changing condition evaluation
 
 
 ## Course materials
