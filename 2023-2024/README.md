@@ -15,3 +15,4 @@
 |   07    | 2023-09-30 | Conditional Statement (part II)               | [link](./2023-09-30/) |
 |    -    | 2023-10-07 | **No Class**                                  |                       |
 |   08    | 2023-10-14 | Loops (part I)                                | [link](./2023-10-14/) |
+|   09    | 2023-10-21 | Loops (part II)                               | [link](./2023-10-21/) |
