@@ -2,6 +2,7 @@
 **Table of Content**
 - [Lecture 09: Loops (part II)](#lecture-09-loops-part-ii)
   - [Topics](#topics)
+  - [Exercises](#exercises)
   - [Concepts](#concepts)
   - [Course materials](#course-materials)
 - [Suggested reading](#suggested-reading)
@@ -14,8 +15,15 @@ Here are the topics we are going to cover
 * [ ] `for` loop in Python
 * [ ] Brief introduction on `list` in Python
 
+## Exercises
+* Generate top N Fibonacci numbers [[wikipedia](https://en.wikipedia.org/wiki/Fibonacci_sequence)]
+* Write a program to generate the Pascal's triangle [[wikipedia](https://en.wikipedia.org/wiki/Pascal%27s_triangle)]
+  * 杨辉三角形 [[wikipedia](https://zh.wikipedia.org/wiki/%E6%9D%A8%E8%BE%89%E4%B8%89%E8%A7%92%E5%BD%A2)] 
+  
+    ![](https://wikimedia.org/api/rest_v1/media/math/render/svg/83e43c795c7cba79bf4b6a4a3cdfa0f3e52b5fd5)
 
 ## Concepts
+* `break` statement in loops
 * `for` loop is used when you want to repeat a fixed number of times
 * `while` loop vs. `for` loop - instead of controling the loop via a "*conditio*n", we can control the loop via a precise "*counter*"
     ```mermaid
