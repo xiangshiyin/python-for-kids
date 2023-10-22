@@ -10,3 +10,4 @@ while True:
     number += 1
 
 print("Program Stopped")
+print(f"After the program stopped, number={number}")
