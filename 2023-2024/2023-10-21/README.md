@@ -6,14 +6,15 @@
   - [Concepts](#concepts)
   - [Course materials](#course-materials)
 - [Suggested reading](#suggested-reading)
+- [Coding assingment](#coding-assingment)
 
 # Lecture 09: Loops (part II)
 
 ## Topics
 Here are the topics we are going to cover
-* [ ] Recap on `while` loop
-* [ ] `for` loop in Python
-* [ ] Brief introduction on `list` in Python
+* [x] Recap on `while` loop
+* [x] `for` loop in Python
+* [ ] ~~Brief introduction on `list` in Python~~ (didn't get time to cover)
 
 ## Exercises
 * Generate top N Fibonacci numbers [[wikipedia](https://en.wikipedia.org/wiki/Fibonacci_sequence)]
@@ -69,3 +70,8 @@ Here are the topics we are going to cover
 # Suggested reading
 * Online resources
   * `for` loop [[Python Wiki](https://wiki.python.org/moin/ForLoop)]
+
+# Coding assingment
+* Finish the in-class coding problem of generating first N Fibonacci numbers where N could be any positive integer.
+* Now that we've got some basic understanding on writing Python code inside a `*.py` file with `IDLE`, I think it is a good time to move on to a more advanced code editor (you might also hear people call them `IDE` which stands for *integrated development environment*) - **Visual Studio Code**.
+  * To get yourself prepared, you can download and install **visual studio code (vscode)** follow the link https://code.visualstudio.com/
