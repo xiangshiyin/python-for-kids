@@ -5,14 +5,15 @@
   - [Exercises](#exercises)
   - [Concepts](#concepts)
   - [Course materials](#course-materials)
+  - [Assignment](#assignment)
 - [Suggested reading](#suggested-reading)
 
 # Lecture 10: Loop (part III)
 
 ## Topics
 Here are the topics we are going to cover
-* [ ] `for` loop wrap-up
-* [ ] Brief introduction on `list`
+* [x] `for` loop wrap-up
+* [x] Brief introduction on `list`
 
 ## Exercises
 * Generate top N Fibonacci numbers with `for` loop
@@ -56,6 +57,12 @@ Here are the topics we are going to cover
 
 ## Course materials
 * slides [[link](https://docs.google.com/presentation/d/1sVdt_rDsiID9sK7AUYpSa2N4td5iPdIdzyVd0CoEnww/edit?usp=sharing)]
+
+## Assignment
+Based on what we learnt in class, write a program to print first `N` layers of the Pascal's triangle where `N` is a variable of positive integers ($N>0$).
+* Hint
+  * To create an empty list, you could do `layer = []`
+  * To add an additional element (such as `0`) to the list, you could either do `layer = layer + [0]` or `layer.append(0)`
 
 # Suggested reading
 * TBD
