@@ -10,8 +10,8 @@
 
 ## Topics
 Here are the topics we are going to cover
-* [ ] Hangman - the game
-* [ ] `dictionary` in Python
+* [x] Hangman - the game
+* [x] `dictionary` in Python
 
 Exercise:
 * [ ] Find the birthday by name
