@@ -10,11 +10,11 @@
 
 ## Topics
 Here are the topics we are going to cover
-* [ ] Python programming with `vscode`
-* [ ] More about `list`
-* [ ] Solve the `Pascal Triangle` problem with `list`
-* [ ] `for` loop and `list`
-* [ ] The hangman ![](https://user-images.githubusercontent.com/34093736/71744579-0266f600-2e68-11ea-9f6c-52770981e573.gif)
+* [x] Python programming with `vscode`
+* [x] More about `list`
+* [x] Solve the `Pascal Triangle` problem with `list`
+* [x] `for` loop and `list`
+* [ ] ~~The hangman~~ (didn't get time to cover) ![](https://user-images.githubusercontent.com/34093736/71744579-0266f600-2e68-11ea-9f6c-52770981e573.gif) 
 
 ## Concepts
 * Run `Python Interpreter` within `vscode`
