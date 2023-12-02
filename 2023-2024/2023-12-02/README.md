@@ -10,12 +10,12 @@
 
 ## Topics
 Here are the topics we are going to cover
-* [ ] Function and examples
-  * [ ] Convert Fahrenheit temperature to Celsius temperature `C = (F - 32) x 5/9`
-  * [ ] A calculator to support `+`, `-`, `*`, `/`
-  * [ ] Coin flip with `random.randint(0,1)`
-  * [ ] Sum of a `list`
-  * [ ] Flip a `list`
+* [x] Function and examples
+  * [x] Convert Fahrenheit temperature to Celsius temperature `C = (F - 32) x 5/9`
+  * [x] A calculator to support `+`, `-`, `*`, `/`
+  * [x] Coin flip with `random.randint(0,1)`
+  * [x] Sum of a `list`
+  * [x] Flip a `list`
 
 
 ## Concepts
