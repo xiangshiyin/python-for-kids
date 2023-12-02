@@ -19,4 +19,6 @@
 |   10    | 2023-10-28 | Loops (part III)                              | [link](./2023-10-28/) |
 |   11    | 2023-11-04 | Non-primitive Data Types - List               | [link](./2023-11-04/) |
 |   12    | 2023-11-11 | Non-primitive Data Types - Dictionary         | [link](./2023-11-11/) |
-|   13    | 2023-11-11 | Function (part I)                             | [link](./2023-11-18/) |
+|   13    | 2023-11-18 | Function (part I)                             | [link](./2023-11-18/) |
+|    -    | 2023-11-25 | -                                             |                       |
+|   14    | 2023-12-02 | Function (part II)                            | [link](./2023-12-02/) |
