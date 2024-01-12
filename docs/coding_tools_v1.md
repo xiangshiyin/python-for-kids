@@ -1,12 +1,16 @@
 
-**Last edited: 8/13/2023**
+**Last edited: 1/12/2024**
 
 **Table of Contents**
 - [Software and Tools (编程工具)](#software-and-tools-编程工具)
   - [Internet @ ACCA](#internet--acca)
   - [Local coding tools](#local-coding-tools)
-    - [Option 1: `Python` application (**RECOMMENDED**)](#option-1-python-application-recommended)
-    - [Option 2: `Anaconda` (a package with `Python` application and all commonly used python libraries for analytics and modeling)](#option-2-anaconda-a-package-with-python-application-and-all-commonly-used-python-libraries-for-analytics-and-modeling)
+    - [Python](#python)
+      - [Option 1: `Python` application (**RECOMMENDED**)](#option-1-python-application-recommended)
+      - [Option 2: `Anaconda` (a package with `Python` application and all commonly used python libraries for analytics and modeling)](#option-2-anaconda-a-package-with-python-application-and-all-commonly-used-python-libraries-for-analytics-and-modeling)
+    - [IDE (Integrated Development Environment)](#ide-integrated-development-environment)
+      - [IDLE](#idle)
+      - [Visual Studio Code (VSCode)](#visual-studio-code-vscode)
   - [Online coding tools](#online-coding-tools)
     - [`replit`](#replit)
     - [Google Colab (notebook)](#google-colab-notebook)
@@ -24,18 +28,28 @@ You can pick either local or online programming tools to practice coding. Please
 
 ## Local coding tools
 
+### Python
+
 **You can pick one of the 2 options listed below:**
 
-### Option 1: `Python` application (**RECOMMENDED**)
+#### Option 1: `Python` application (**RECOMMENDED**)
 Install "vanilla" version `Python` application to your local computer
 * Please download and install `Python` via the link https://www.python.org/downloads/
   * You can choose the corresponding link to download the version that matches your computer's operation system ![](./pics/download-python.png)
-### Option 2: `Anaconda` (a package with `Python` application and all commonly used python libraries for analytics and modeling)
+#### Option 2: `Anaconda` (a package with `Python` application and all commonly used python libraries for analytics and modeling)
 Install the well packaged Python toolset to your local computer
 * Please download Anaconda via this link: https://www.anaconda.com/products/distribution. You can download link when you scroll to the bottom of the web page. Please choose the installer that's compatible to your computer operation system
   * For Mac OS user, you can download `64-Bit Graphical Installer (591 MB)`
   * For windows user with a 64-bit operation system, you can download `64-Bit Graphical Installer (594 MB)`
   * For Windows user with a 32-bit operation system, you can download `32-Bit Graphical Installer (488 MB)`
+
+### IDE (Integrated Development Environment)
+
+#### IDLE 
+Python's [native code editor](https://docs.python.org/3/library/idle.html)
+
+#### Visual Studio Code (VSCode)
+Follow this link to download https://code.visualstudio.com/
 
 ## Online coding tools
 ### `replit`
