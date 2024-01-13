@@ -22,3 +22,4 @@
 |   13    | 2023-11-18 | Function (part I)                             | [link](./2023-11-18/) |
 |    -    | 2023-11-25 | **No Class**                                  |                       |
 |   14    | 2023-12-02 | Function (part II)                            | [link](./2023-12-02/) |
+|   15    | 2024-01-13 | Class and Objects                             | [link](./2024-01-13/) |
