@@ -173,6 +173,11 @@ class Cat(Animal):
 
 ```
 
+## Practices
+* Q1. Create a bank with methods to deposit, withdraw, and check balance
+* Q2. Create a calculator with methods to add, subtract, multiplication, and divisions for two input numbers
+* Q3. Create a class that mimics numeric types in python with methods to add, subtract, multiplication, and division
+
 # Topics to Explore
 
 ## Reading
