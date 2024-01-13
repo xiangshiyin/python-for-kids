@@ -118,12 +118,14 @@ In general
 
 ```python
 class table:
+    # constructor method
     def __init__(self, l, w, h):
         self.l = l
         self.w = w
         self.h = h
         self.has_a_flat_top = True
     
+    # regular/instance method
     def hold_weight(self, weight):
         print('Holding a weight of {weight} kg')
 ```
