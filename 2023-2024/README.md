@@ -1,4 +1,22 @@
-# General information
+**Table of Contents**
+- [Attention](#attention)
+- [Tools](#tools)
+- [Schedule](#schedule)
+
+# Attention
+Since we have in-class coding session, please bring a computer with you to our weekly class.
+
+# Tools
+* Please follow the instruction [here](../docs/coding_tools_v1.md) to install the suggested softwares to your computer
+  * `python`
+  * `vscode`
+* If you prefer not to install any software on your computer, you could also use `replit` [instructions](../docs/coding_tools_v1.md#replit) to code online within the browser. In order to do so, you need to register an online account on `replit` and you would also need internet connection.
+* Environment set up on chromebook could be a little tricky, but it seems doable
+  * Programming on a chromebook [[reference](https://www.codecademy.com/article/programming-locally-on-chromebook)]
+  * Programming Python on a chromebook [[reference](https://www.codecademy.com/article/programming-python-on-chromebook)]
+  * Install `vscode` on chromebook [[reference](https://chromeunboxed.com/how-to-install-visual-studio-code-on-a-chromebook/)]
+
+# Schedule
 * School Year 2023-2024 - Saturday from 10:30AM to 12:00PM (每周六上午 10:30-12:00)
   * 地点: 5850 Peachtree Industrial Blvd, Norcross, GA 30071
 
