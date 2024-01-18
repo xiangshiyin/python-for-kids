@@ -1,16 +1,17 @@
 
 **Table of Content**
-- [Lecture 15: Class and Objects](#lecture-15-class-and-objects)
+- [Lecture 15: Semester Recap and Class \& Objects](#lecture-15-semester-recap-and-class--objects)
   - [Describe a table](#describe-a-table)
   - [Class and Objects in Python](#class-and-objects-in-python)
     - [Definition](#definition)
     - [Create a class in Python](#create-a-class-in-python)
   - [Class inheritance](#class-inheritance)
+  - [Practices](#practices)
 - [Topics to Explore](#topics-to-explore)
   - [Reading](#reading)
   - [Coding](#coding)
 
-# Lecture 15: Class and Objects
+# Lecture 15: Semester Recap and Class & Objects
 
 ## Describe a table
 How do you describe a table?
