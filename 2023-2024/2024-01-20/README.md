@@ -1,16 +1,17 @@
 
 **Table of Content**
-- [Lecture XX: The Title](#lecture-xx-the-title)
+- [Lecture 16: Class \& Objects (part II)](#lecture-16-class--objects-part-ii)
   - [Topics](#topics)
   - [Concepts](#concepts)
     - [Class vs. Object/Instance](#class-vs-objectinstance)
     - [Class Definition](#class-definition)
     - [Class Inheritance](#class-inheritance)
+    - [Global Variable](#global-variable)
   - [Practice](#practice)
   - [Course materials](#course-materials)
 - [Suggested reading](#suggested-reading)
 
-# Lecture XX: The Title
+# Lecture 16: Class & Objects (part II)
 
 ## Topics
 Here are the topics we are going to cover
@@ -78,6 +79,10 @@ class Cat(Animal):
 
 ```
 
+### Global Variable
+* Local variable: a variable defined within a function
+* Global variable: a variable defined at the outermost level of a Python script
+
 ## Practice
 * Q1. Create a bank with methods to deposit, withdraw, and check balance
 * Q2. Create a calculator with methods to add, subtract, multiplication, and divisions for two input numbers
@@ -87,6 +92,5 @@ class Cat(Animal):
 * slides [TBD]
 
 # Suggested reading
-* TBD
-* Online resources
-  * TBD
+* Global variable in Python [[link](https://www.w3schools.com/python/python_variables_global.asp)]
+* Decorators in Python [[link](https://www.geeksforgeeks.org/decorators-in-python/)]
