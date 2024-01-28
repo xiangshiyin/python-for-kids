@@ -21,6 +21,20 @@ In this lecture, we are going to build a tic-tac-toe game together
 * What input do we need?
 * What output do we need?
 
+```mermaid
+graph LR;
+    A[Start] --> B[Input position];
+    B --> H[Valid Input?];
+    H --> |YES| C[Update the board];
+    H --> |NO| B;
+    C --> D[Display the board];
+    D --> E[Check win];
+    E --> |YES|F[Quit game];
+    E --> |NO|G[Check tie];
+    G --> |YES|F;
+    G --> |NO|B;
+```
+
 
 ## Course materials
 * slides [[link](TBD)]
