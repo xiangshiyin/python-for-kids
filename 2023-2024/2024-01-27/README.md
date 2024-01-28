@@ -5,6 +5,7 @@
   - [Questions](#questions)
   - [Course materials](#course-materials)
 - [Suggested reading](#suggested-reading)
+- [Assignment](#assignment)
 
 # Lecture 17: Build a Tic-Tac-Toe Game
 
@@ -26,3 +27,10 @@ In this lecture, we are going to build a tic-tac-toe game together
 
 # Suggested reading
 * (Good to read, we'll catch this up later) Build a tic-tac-toe game with GUI (graphic user interface): https://realpython.com/tic-tac-toe-python/
+
+# Assignment
+* Add additional functions to
+  * Check abnormal input (invalid position)
+  * Enable game reset
+  * Enable existing the game
+* Optimize the code we created [[code](./tic-tac-toe.py)]
