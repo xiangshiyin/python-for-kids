@@ -3,6 +3,9 @@
 - [Lecture 17: Build a Tic-Tac-Toe Game](#lecture-17-build-a-tic-tac-toe-game)
   - [Topics](#topics)
   - [Questions](#questions)
+  - [Flow Chart](#flow-chart)
+    - [Case #1](#case-1)
+    - [Case #2](#case-2)
   - [Course materials](#course-materials)
 - [Suggested reading](#suggested-reading)
 - [Assignment](#assignment)
@@ -21,18 +24,38 @@ In this lecture, we are going to build a tic-tac-toe game together
 * What input do we need?
 * What output do we need?
 
+## Flow Chart
+### Case #1
 ```mermaid
 graph LR;
-    A[Start] --> B[Input position];
-    B --> H[Valid Input?];
-    H --> |YES| C[Update the board];
+    A[Start] --> B[Input Position];
+    B --> H[Valid Position?];
+    H --> |YES| C[Update the Board];
     H --> |NO| B;
-    C --> D[Display the board];
-    D --> E[Check win];
-    E --> |YES|F[Quit game];
-    E --> |NO|G[Check tie];
+    C --> D[Display the Board];
+    D --> E[Check Tie];
+    E --> |YES|F[End Game];
+    E --> |NO|G[Check Win];
     G --> |YES|F;
     G --> |NO|B;
+```
+### Case #2
+```mermaid
+graph LR;
+    A[Start] --> B[Input];
+    B --> C[Restart];
+    B --> D[Quit];
+    B --> E[Valid Position?];
+    C --> |Reset Board|A;
+    D --> F[End Game]
+    E --> |NO|B;
+    E --> |YES|G[Update the Board];
+    G --> H[Display the Board];
+    H --> I[Check Tie];
+    I --> |YES|F;
+    I --> |NO|J[Check Win];
+    J --> |YES|F;
+    J --> |NO|B;
 ```
 
 
