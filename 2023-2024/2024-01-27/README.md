@@ -33,9 +33,9 @@ graph LR;
     H --> |YES| C[Update the Board];
     H --> |NO| B;
     C --> D[Display the Board];
-    D --> E[Check Tie];
+    D --> E[Check Win];
     E --> |YES|F[End Game];
-    E --> |NO|G[Check Win];
+    E --> |NO|G[Check Tie];
     G --> |YES|F;
     G --> |NO|B;
 ```
