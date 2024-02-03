@@ -74,6 +74,10 @@ def check_tie(board):
     return True
 
 
+def check_valid_input(input):
+    pass
+
+
 def play():
     print(f"Welcome to the tic tac toe game!! Here are the rules:")
     print("1. There will be 2 players playing")
@@ -83,6 +87,7 @@ def play():
     # display the board
     display_board(board=board)
     player = 1
+    quit_command = ["q", "Q"]
 
     while True:
         # collect an input
@@ -94,6 +99,18 @@ def play():
             f"Player {player} is playing, input a position 1-9 to fill:\n"
         )
 
+        if user_input in quit_command:
+            flg_quit = input("Are you sure to quit the game? (y/n)")
+            if flg_quit == "y":
+                break
+            else:
+                user_input = input(
+                    f"Player {player} is playing, input a position 1-9 to fill:\n"
+                )
+                if not (user_input in "123456789" and len(user_input) == 1):
+                    print("Invalid input, please try again!!")
+                    continue
+
         # option 1 to check input:
         # if not (
         #     user_input.isnumeric() and int(user_input) >= 1 and int(user_input) <= 9
@@ -103,6 +120,7 @@ def play():
 
         # option 2 to check input:
         if not (user_input in "123456789" and len(user_input) == 1):
+            print("Invalid input, please try again!!")
             continue
 
         position = int(user_input)
