@@ -86,10 +86,26 @@ def play():
 
     while True:
         # collect an input
-        position = int(
-            input(f"Player {player} is playing, input a position to fill:\n")
+        # position = int(
+        #     input(f"Player {player} is playing, input a position to fill:\n")
+        # )
+
+        user_input = input(
+            f"Player {player} is playing, input a position 1-9 to fill:\n"
         )
 
+        # option 1 to check input:
+        # if not (
+        #     user_input.isnumeric() and int(user_input) >= 1 and int(user_input) <= 9
+        # ):  # not a valid input
+        #     print("Invalid input, please try again!!")
+        #     continue
+
+        # option 2 to check input:
+        if not (user_input in "123456789" and len(user_input) == 1):
+            continue
+
+        position = int(user_input)
         # update the board
         update_board(board=board, player=player, position=position)
 
