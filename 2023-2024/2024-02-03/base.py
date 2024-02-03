@@ -75,9 +75,13 @@ def check_tie(board):
 
 
 def play():
+    print(f"Welcome to the tic tac toe game!! Here are the rules:")
+    print("1. There will be 2 players playing")
+    print("2. In each move, type in a desired position to fill")
     # initialize the board
     board = initialize_board()
     # display the board
+    display_board(board=board)
     player = 1
 
     while True:
