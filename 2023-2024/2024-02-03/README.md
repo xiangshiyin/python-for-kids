@@ -43,10 +43,30 @@ Here are the topics we are going to cover
    1. Player could quit the game with command "q" and type in "y" to confirm and quit the game
    2. If the player regrets and types in "n" to continue the game, he could still type in "q" to try to quit the game again without being treated as invalid input
    3. Do the same to reset the game in the middle, use the command "reset"
+
+  ```mermaid
+  graph LR;
+      A[Start] --> B[Input];
+      B --> C[Restart];
+      B --> D[Quit];
+      B --> E[Valid Position?];
+      C --> |Reset Board|A;
+      D --> F[End Game]
+      E --> |NO|B;
+      E --> |YES|G[Update the Board];
+      G --> H[Display the Board];
+      H --> I[Check Win];
+      I --> |YES|F;
+      I --> |NO|J[Check Tie];
+      J --> |YES|F;
+      J --> |NO|B;
+  ```
+
 2. Research the usage of the library `tkinter` and build a window interface, such that
    1. The window has a title "Tic Tac Toe"
    2. The window has a box entry for user to type
    3. The window has a button below the box entry
    4. When the user clicks the button, a window should pop up and display the same message the user typed in
+   ![](./type_and_pop.png)
 
 (We haven't covered much on the library `tkinter`, so you might need some online research to figure out question 2)
