@@ -2,6 +2,7 @@
 **Table of Content**
 - [Lecture 18: Build a Tic-Tac-Toe Game (part II)](#lecture-18-build-a-tic-tac-toe-game-part-ii)
   - [Topics](#topics)
+  - [Code sample](#code-sample)
   - [Concepts](#concepts)
   - [Course materials](#course-materials)
 - [Suggested reading](#suggested-reading)
@@ -19,6 +20,9 @@ Here are the topics we are going to cover
 * [ ] Rewrite the code for the tic-tac-toe game in python class
 * [x] Create a graphic user interface (GUI) with `tkinter`
 
+## Code sample
+* Modified tic-tac-toe code: [base.py](./base.py)
+* Test the `tkinter` library for GUI: [try_tkinter.py](./try_tkinter.py)
 
 ## Concepts
 * Widgets in `tkinter` [[source](https://realpython.com/python-gui-tkinter/#working-with-widgets)]
