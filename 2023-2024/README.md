@@ -44,3 +44,4 @@ Since we have in-class coding session, please bring a computer with you to our w
 |   16    | 2024-01-20 | Class & Objects (part II)                     | [link](./2024-01-20/) |
 |   17    | 2024-01-27 | Build a Tic-Tac-Toe Game (part I)             | [link](./2024-01-27/) |
 |   18    | 2024-02-03 | Build a Tic-Tac-Toe Game (part II)            | [link](./2024-02-03/) |
+|   19    | 2024-02-10 | Build a Tic-Tac-Toe Game (part III)           | [link](./2024-02-10/) |
