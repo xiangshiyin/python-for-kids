@@ -28,7 +28,8 @@ In this lecture, we are going to build a tic-tac-toe game together
 ### Case #1
 ```mermaid
 graph LR;
-    A[Start] --> B[Input Position];
+    A[Start] --> I[Display the Board];
+    I --> B[Input Position];
     B --> H[Valid Position?];
     H --> |YES| C[Update the Board];
     H --> |NO| B;
