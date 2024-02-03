@@ -52,9 +52,9 @@ graph LR;
     E --> |NO|B;
     E --> |YES|G[Update the Board];
     G --> H[Display the Board];
-    H --> I[Check Tie];
+    H --> I[Check Win];
     I --> |YES|F;
-    I --> |NO|J[Check Win];
+    I --> |NO|J[Check Tie];
     J --> |YES|F;
     J --> |NO|B;
 ```
