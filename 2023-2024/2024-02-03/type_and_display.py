@@ -5,7 +5,7 @@ from tkinter import messagebox
 def display_input():
     user_input = entry.get()
     label["text"] = user_input
-    messagebox.showinfo("a", "testing testing")
+    # messagebox.showinfo("a", "testing testing")
 
 
 window = tk.Tk()
