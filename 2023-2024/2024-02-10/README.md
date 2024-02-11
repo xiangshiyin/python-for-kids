@@ -4,7 +4,8 @@
   - [Topics](#topics)
   - [Recap](#recap)
   - [Course materials](#course-materials)
-- [Exercise / Exploration](#exercise--exploration)
+  - [Reading](#reading)
+  - [Exercise / Exploration](#exercise--exploration)
 
 # Lecture 19: Build a Tic-Tac-Toe Game (part III)
 
@@ -33,7 +34,10 @@ Here is a highlight of the class activities
 ## Course materials
 * slides [TBD]
 
-# Exercise / Exploration
+## Reading
+* `tikinter` tutorial [[link](https://tk-tutorial.readthedocs.io/en/latest/intro/intro.html)]
+
+## Exercise / Exploration
 We've done some practice to implement a graphic interface with `tkinter` and we are able to build a graphic tic-tac-toe board. However, there are still some features missing, such as 
 * Button displays different text information unpon user click
 
