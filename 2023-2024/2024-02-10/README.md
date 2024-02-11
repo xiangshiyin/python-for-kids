@@ -38,8 +38,10 @@ Here is a highlight of the class activities
 * `tikinter` tutorial [[link](https://tk-tutorial.readthedocs.io/en/latest/intro/intro.html)]
 
 ## Exercise / Exploration
-We've done some practice to implement a graphic interface with `tkinter` and we are able to build a graphic tic-tac-toe board. However, there are still some features missing, such as 
-* Button displays different text information unpon user click
+**Q1**. We've done some practice to implement a graphic interface with `tkinter` and we are able to build a graphic tic-tac-toe board. However, there are still some features missing, such as 
+  * Button displays different text information unpon user click
 
 Can you do some research to figure out a way to make this happen?
 * Hint: maybe try the global variable idea we discussed near the end of the class?
+
+**Q2**. Can you rewrite the tic-tac-toe game logic in [tic_tac_toe_v1.py](./tic_tac_toe_v1.py) in a Python `class`?
