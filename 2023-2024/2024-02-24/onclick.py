@@ -1,5 +1,6 @@
 import tkinter as tk
 
+
 # automate the board creation
 def create_buttons(rows, columns):
     buttons = []
@@ -20,9 +21,9 @@ def create_buttons(rows, columns):
             buttons.append(b)
     return buttons
 
+
 def click(row, col):
     buttons[row * 3 + col].config(text="X")
-
 
 
 window = tk.Tk()
