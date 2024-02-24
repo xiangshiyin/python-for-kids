@@ -1,3 +1,7 @@
+"""
+Change the text of the button when clicked
+"""
+
 import tkinter as tk
 
 
