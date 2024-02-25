@@ -19,7 +19,7 @@ In today's class, we are going to finish the GUI for the tic-tac-toe game
 
 ## Recap
 * In [demo1.py](./demo1.py), we introduced code to handle the auto-adjustment of the button position when dragging the whole window
-* In [demo2.py](./demo2.py), we built a small counter UI to interactively react to the button clicks
+* In [demo2.py](./demo2.py), we built a small counter UI to interactively react to the button clicks ![](./counter.png)
 * In [demo3.py](./demo3.py), we enhanced the 3x3 game board by labeling the buttons clicked with a hard-coded mark "X"
 * In [demo4.py](./demo4.py), we rewrote `demo3.py` in a *class* `game` and introduced instance attributes that it could behavior like a global variable and help alternate the marks to lay on the clicked buttons. We also made sure that clicked buttons shouldn't be activated again.
 

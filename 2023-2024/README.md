@@ -47,3 +47,4 @@ Since we have in-class coding session, please bring a computer with you to our w
 |   19    | 2024-02-10 | Build a Tic-Tac-Toe Game (part III)           | [link](./2024-02-10/) |
 |    -    | 2024-02-17 | **No Class**                                  |                       |
 |   20    | 2024-02-24 | Build a Tic-Tac-Toe Game (part IV)            | [link](./2024-02-24/) |
+|   21    | 2024-03-02 | Python Libraries and How to Use Them (part I) | [link](./2024-03-02/) |
