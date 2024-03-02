@@ -12,7 +12,7 @@
 
 ## Topics
 Here are the topics we are going to cover
-* [ ] Wrap-up the Tic-Tac-Toe game UI code
+* [x] Wrap-up the Tic-Tac-Toe game UI code
 * [ ] How to import pre-built Python code
 
 
