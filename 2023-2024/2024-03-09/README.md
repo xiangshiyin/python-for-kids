@@ -18,6 +18,12 @@ Here are the topics we are going to cover
 * [ ] Demo of `matplotlib`
   * [ ] Draw a circle
   * [ ] Draw a moving line
+  * [ ] Compare the trends of different math expressions
+    * $y_1 = x$
+    * $y_2 = x^2$
+    * $y_3 = x^3$
+    * $y_4 = log_2(x)$
+    * $y_5 = x * log_2(x)$
 
 
 ## Concepts
