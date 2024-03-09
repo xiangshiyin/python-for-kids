@@ -9,6 +9,7 @@
     - [Different ways to import python libraries](#different-ways-to-import-python-libraries)
   - [Course materials](#course-materials)
 - [Suggested reading](#suggested-reading)
+- [Assignment](#assignment)
 
 # Lecture 22: Python Libraries and How to Use Them (part II)
 
@@ -102,3 +103,8 @@ Just like the examples above
 * Online resources
   * Introduction to Python modules and packages [[link](https://realpython.com/python-modules-packages/)]
     * A bit long but a good read :)
+
+# Assignment
+Can you solve the following math problem?
+* **Q1**: Annie needs to use 1 complete candle each day. When the candles burn out, she could also melt 7 candle ends to make 1 complete candle. Given the fact that Annie has 7 complete candles at the very beginning, how many days can the candles last before she needs to go and buy new ones?
+  * Assume Annie has $x$ candles at the very beginning, can you write a function `days(x)` to output the number of days the candles can last before Annie needs to buy new ones?
