@@ -14,6 +14,8 @@
 ## Topics
 Here are the topics we are going to cover
 * [ ] How to import pre-built Python code
+* [ ] Demo of `matplotlib`
+* [ ] Draw a moving circle
 
 
 ## Concepts
