@@ -15,11 +15,11 @@
 
 ## Topics
 Here are the topics we are going to cover
-* [ ] How to import pre-built Python code
-* [ ] Demo of `matplotlib`
+* [x] How to import pre-built Python code
+* [x] Demo of `matplotlib`
   * [ ] Draw a circle
   * [ ] Draw a moving line
-  * [ ] Compare the trends of different math expressions
+  * [x] Compare the trends of different math expressions
     * $y_1 = x$
     * $y_2 = x^2$
     * $y_3 = x^3$
