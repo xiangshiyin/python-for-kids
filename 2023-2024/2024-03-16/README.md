@@ -127,6 +127,8 @@ with open(filepath, 'w') as file:
 * slides [TBD]
 
 ## Reading
+- Give it a try on `poetry` [[link](https://github.com/xiangshiyin/python-for-kids/tree/main?tab=readme-ov-file#dependency-management-advanced-setting)]
+- A `pygame` example [[link](https://www.pygame.org/docs/tut/PygameIntro.html)]
 - Read and write to a text file from a Python program [[link](https://muzny.github.io/csci1200-notes/10/1/fileio.html#reading-from-files)]
 
 ## Coding
