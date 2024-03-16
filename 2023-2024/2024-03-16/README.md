@@ -132,4 +132,16 @@ with open(filepath, 'w') as file:
 - Read and write to a text file from a Python program [[link](https://muzny.github.io/csci1200-notes/10/1/fileio.html#reading-from-files)]
 
 ## Coding
-- Can you write a simple script to check what is the most frequently used word in `Harry Potter And The Socerer's Stone`?
+- 1. Play with the bouncing ball example [here](./bouncing_ball.py)
+  - Install the python library `pygame`
+  - Run the code and see if it works as expected
+  - Modify the code to let a different picture bounce around, such as a cat picture
+- 2. Modify the code [demo3.py](./demo3.py) such that top few lines look like below
+  ```python
+  file = open(
+      file="write_target.txt",
+      mode="a"
+  )
+  ```
+  - Can you figure out an approach to make the code run without any problem?
+  - Can you figure out more than one approach?
