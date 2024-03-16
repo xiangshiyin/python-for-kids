@@ -10,15 +10,20 @@
 
 ## Topics
 Here are the topics we are going to cover
-* [ ] TBD
+* [ ] Use a Python library, more examples
+* [ ] Install a Python library
+* [ ] Read from a file
+* [ ] Write to a file
 
 
 ## Concepts
-* TBD
+* Same as importing an prebuilt python script, you could follow the patterns below to import a python library
+  * `from <pack>
+* 
 
 
 ## Course materials
-* slides [[link](TBD)]
+* slides [TBD]
 
 # Suggested reading
 * TBD
