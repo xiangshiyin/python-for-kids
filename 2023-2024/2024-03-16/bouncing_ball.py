@@ -34,4 +34,4 @@ while True:
     screen.blit(ball, ballrect)
     pygame.display.flip()
 
-    time.sleep(0.1)
+    time.sleep(0.01)
