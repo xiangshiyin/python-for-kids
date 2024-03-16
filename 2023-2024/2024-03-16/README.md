@@ -11,7 +11,8 @@
     - [Read from a file](#read-from-a-file)
     - [Write to a file](#write-to-a-file)
   - [Course materials](#course-materials)
-- [Suggested reading](#suggested-reading)
+  - [Reading](#reading)
+  - [Coding](#coding)
 
 # Lecture 23: File Input and Output (part I)
 
@@ -125,7 +126,8 @@ with open(filepath, 'w') as file:
 ## Course materials
 * slides [TBD]
 
-# Suggested reading
-* TBD
-* Online resources
-  * TBD
+## Reading
+- Read and write to a text file from a Python program [[link](https://muzny.github.io/csci1200-notes/10/1/fileio.html#reading-from-files)]
+
+## Coding
+- Can you write a simple script to check what is the most frequently used word in `Harry Potter And The Socerer's Stone`?
