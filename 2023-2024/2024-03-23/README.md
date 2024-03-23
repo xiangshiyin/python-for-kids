@@ -15,7 +15,8 @@
 
 ## Topics
 Here are the topics we are going to cover
-* [ ] TBD
+* [ ] The `pygame` example revisit
+* [ ] Read from a file with `open()`
 
 
 ## Concepts

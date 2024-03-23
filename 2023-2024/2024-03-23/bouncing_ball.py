@@ -10,8 +10,7 @@ os.chdir(os.path.dirname(os.path.abspath(__file__)))
 
 pygame.init()
 
-# size = width, height = 320, 240
-size = width, height = 640, 480
+size = width, height = 320, 240
 speed = [1, 1]
 black = 0, 0, 0
 
