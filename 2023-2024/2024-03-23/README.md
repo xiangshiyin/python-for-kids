@@ -16,6 +16,7 @@
 ## Topics
 Here are the topics we are going to cover
 * [ ] The `pygame` example revisit
+* [ ] The working directory problem [[link](../2024-03-16/README.md#coding)]
 * [ ] Read from a file with `open()`
 
 
@@ -67,16 +68,15 @@ with open(filepath, 'r') as file:
     # operations
 ```
 
-To fetch the content, we could run the command `file.readlines()` to load the content of the file into a `list`. Each element of the `list` represent a line of the file. Here is an example:
-```python
-with open(filepath, 'r') as file:
-    # operations
-    line = file.readline()
-    print(line)
-```
-
-
-We could also run the command `file.readline()` to only return the content one line a time.
+There are different patterns to fetch the content of a file
+* Pattern 1: `file.read()` - read all content as a string
+* Pattern 2: `file.readlines()` - read all content as a list of strings (rows)
+* Pattern 3: `file.readline()` - read one line at a time
+  * You could also use the following pattern
+    ```python
+    for line in file:
+      <operations>
+    ```
 
 
 ### Write to a file
