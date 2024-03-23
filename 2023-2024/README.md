@@ -50,3 +50,4 @@ Since we have in-class coding session, please bring a computer with you to our w
 |   21    | 2024-03-02 | Python Libraries and How to Use Them (part I)  | [link](./2024-03-02/) |
 |   22    | 2024-03-09 | Python Libraries and How to Use Them (part II) | [link](./2024-03-09/) |
 |   23    | 2024-03-16 | File Input and Output (part I)                 | [link](./2024-03-16/) |
+|   24    | 2024-03-23 | File Input and Output (part II)                | [link](./2024-03-23/) |
