@@ -10,14 +10,17 @@ os.chdir(os.path.dirname(os.path.abspath(__file__)))
 
 pygame.init()
 
-size = width, height = 320, 240
+# size = width, height = 320, 240
+size = width, height = 640, 480
 speed = [1, 1]
 black = 0, 0, 0
 
 screen = pygame.display.set_mode(size)
 
-# ball = pygame.image.load("./intro_ball.gif")
-ball = pygame.image.load("./cat.jpeg")
+ball = pygame.image.load("./intro_ball.gif")
+# ball = pygame.image.load("./cat.jpeg")
+# ball = pygame.image.load("./cat2.jpeg")
+
 ballrect = ball.get_rect()
 
 while True:
