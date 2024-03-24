@@ -9,15 +9,15 @@
     - [Read from a file](#read-from-a-file)
     - [Write to a file](#write-to-a-file)
   - [Course materials](#course-materials)
-- [Suggested reading](#suggested-reading)
+- [Coding Challenge](#coding-challenge)
 
 # Lecture 24: File Input and Output (part II)
 
 ## Topics
 Here are the topics we are going to cover
-* [ ] The `pygame` example revisit
-* [ ] The working directory problem [[link](../2024-03-16/README.md#coding)]
-* [ ] Read from a file with `open()`
+* [x] The `pygame` example revisit
+* [x] The working directory problem [[link](../2024-03-16/README.md#coding)]
+* [x] Read from a file with `open()`
 
 
 ## Concepts
@@ -98,7 +98,5 @@ with open(filepath, 'w') as file:
 ## Course materials
 * slides [TBD]
 
-# Suggested reading
-* TBD
-* Online resources
-  * TBD
+# Coding Challenge
+We have a Harry Potter book chapter [here](./hp_book1.txt), can you figure out a way to find the most frequent word used in the document?
