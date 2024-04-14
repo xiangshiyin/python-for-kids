@@ -8,14 +8,14 @@
     - [Track file editing history](#track-file-editing-history)
   - [Install Git](#install-git)
   - [Course materials](#course-materials)
-- [Suggested reading](#suggested-reading)
+- [Coding Practice](#coding-practice)
 
 # Lecture 25: Version Control and Git
 
 ## Topics
 Here are the topics we are going to cover
-* [ ] Word frequency ranking in Harry Potter
-* [ ] Introduction to version control
+* [x] Word frequency ranking in Harry Potter
+* [x] Introduction to version control
 * [ ] Introduction to Git
 
 
@@ -69,7 +69,6 @@ Assume you have two text files and you want to figure out if the two files conta
 ## Course materials
 * slides [[link](https://docs.google.com/presentation/d/1V3UgsJ_vXLN_qYO2Xe-VDvUkvW_6z8zKf4HqK8BzfAQ/edit?usp=sharing)]
 
-# Suggested reading
-* TBD
-* Online resources
-  * TBD
+# Coding Practice
+* Check [this online tutorial](https://www.geeksforgeeks.org/removing-stop-words-nltk-python/), see if you could figure out a way to remove the stopwords from the corpus of the Harry Potter book so that you could get a ranking of the frequency of the "meaningful" words.
+* Follow [the instructions above](#install-git) to install git (get ready for the class next week) 
