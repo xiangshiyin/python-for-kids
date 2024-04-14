@@ -54,3 +54,4 @@ Since we have in-class coding session, please bring a computer with you to our w
 |    -    | 2024-03-30 | **No Class**                                   |                       |
 |    -    | 2024-04-06 | **No Class**                                   |                       |
 |   25    | 2024-04-13 | Version Control and Git (part I)               | [link](./2024-04-13/) |
+|   26    | 2024-04-20 | Version Control and Git (part II)              | [link](./2024-04-20/) |

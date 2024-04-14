@@ -1,16 +1,16 @@
 
 **Table of Content**
-- [Lecture 25: Version Control and Git](#lecture-25-version-control-and-git)
+- [Lecture 25: Version Control and Git (part I)](#lecture-25-version-control-and-git-part-i)
   - [Topics](#topics)
   - [Concepts](#concepts)
     - [Version control](#version-control)
       - [Compare two files](#compare-two-files)
     - [Track file editing history](#track-file-editing-history)
-  - [Install Git](#install-git)
+    - [Install Git](#install-git)
   - [Course materials](#course-materials)
 - [Coding Practice](#coding-practice)
 
-# Lecture 25: Version Control and Git
+# Lecture 25: Version Control and Git (part I)
 
 ## Topics
 Here are the topics we are going to cover
@@ -46,7 +46,7 @@ Assume you have two text files and you want to figure out if the two files conta
 * The google doc example - edit history
 ![](./version_history_google_doc.png)
 
-##  Install Git
+###  Install Git
 * [Official doc](https://git-scm.com/book/en/v2/Getting-Started-Installing-Git) - installation options for different operation systems (Linux, Mac, Windows, etc.)
 * Initialize `git`
   * You can set some global level user information so that `git` knows who is making the code changes, some commands like 
