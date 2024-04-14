@@ -8,6 +8,7 @@
 - [Suggested reading](#suggested-reading)
 
 # Lecture 26: Version Control and Git (part II)
+(work in progress)
 
 ## Topics
 Here are the topics we are going to cover
