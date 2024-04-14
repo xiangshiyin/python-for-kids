@@ -70,5 +70,5 @@ Assume you have two text files and you want to figure out if the two files conta
 * slides [[link](https://docs.google.com/presentation/d/1V3UgsJ_vXLN_qYO2Xe-VDvUkvW_6z8zKf4HqK8BzfAQ/edit?usp=sharing)]
 
 # Coding Practice
-* Check [this online tutorial](https://www.geeksforgeeks.org/removing-stop-words-nltk-python/), see if you could figure out a way to remove the stopwords from the corpus of the Harry Potter book so that you could get a ranking of the frequency of the "meaningful" words.
+* Check [this online tutorial](https://www.geeksforgeeks.org/removing-stop-words-nltk-python/), see if you could figure out a way to remove the stopwords from the corpus of the Harry Potter book so that you could get a ranking of the frequency of the "meaningful" words. Think about how you could integrate this logic into [the code we built together](./word_count.py).
 * Follow [the instructions above](#install-git) to install git (get ready for the class next week) 
