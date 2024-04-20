@@ -49,6 +49,6 @@ Before our class, please install `git` and set up a github account following the
 * slides [[link](https://docs.google.com/presentation/d/1V3UgsJ_vXLN_qYO2Xe-VDvUkvW_6z8zKf4HqK8BzfAQ/edit?usp=sharing)]
 
 # Suggested reading
-* TBD
+* `git` integration in `Spyder` [[link](https://www.geeksforgeeks.org/how-to-install-git-with-spyder/)]
 * Online resources
   * TBD
