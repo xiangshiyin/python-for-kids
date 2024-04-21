@@ -8,12 +8,13 @@
     - [Common `git` commands](#common-git-commands)
   - [Course materials](#course-materials)
 - [Suggested reading](#suggested-reading)
+- [Assignment](#assignment)
 
 # Lecture 26: Version Control and Git (part II)
 
 ## Topics
 Here are the topics we are going to cover
-* [ ] Introduction to Git & Github
+* [x] Introduction to Git & Github
 * [ ] Hands-on practice with GitHub
 
 
@@ -50,5 +51,9 @@ Before our class, please install `git` and set up a github account following the
 
 # Suggested reading
 * `git` integration in `Spyder` [[link](https://www.geeksforgeeks.org/how-to-install-git-with-spyder/)]
-* Online resources
-  * TBD
+
+# Assignment
+* Can you do some research online and do the following things?
+  * Create a github repo
+  * Push a file to the repo
+
