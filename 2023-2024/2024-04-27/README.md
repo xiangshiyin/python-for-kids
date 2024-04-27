@@ -8,6 +8,7 @@
     - [Bubble Sort](#bubble-sort)
   - [Course materials](#course-materials)
 - [Suggested reading](#suggested-reading)
+- [Practice](#practice)
 
 # Lecture 27: Algorithm (part I) - Search
 
@@ -47,4 +48,12 @@ Question: Does it matter if the list is sorted or not?
 
 # Suggested reading
 * Binary search [implementation](https://www.programiz.com/dsa/binary-search)
-* You all need to do after class practices.
+
+# Practice
+* Write a program to implement binary search
+  * Input: 
+    * `alist`: a sorted list of integers
+    * `target`: an integer
+  * Output:
+    * If you can find the target nubmer from the list, print the message "Found the target" and the number of steps it took
+    * If you can't find the traget, print the message "Can't find the target" and the number of steps it took
