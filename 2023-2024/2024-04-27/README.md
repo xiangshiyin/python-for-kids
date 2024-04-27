@@ -13,11 +13,11 @@
 
 ## Topics
 Here are the topics we are going to cover
-* [ ] Hands-on practice with Github
-  * [ ] Create an empty repository
-  * [ ] Add a new file to the repository
-  * [ ] Pull a remote repository
-  * [ ] Contribute to a remote repository
+* [X] Hands-on practice with Github
+  * [X] Create an empty repository
+  * [X] Add a new file to the repository
+  * [X] Pull a remote repository
+  * [x] Contribute to a remote repository
 * [ ] Search algorithm - Linear vs. Binary
 
 ## Concepts
