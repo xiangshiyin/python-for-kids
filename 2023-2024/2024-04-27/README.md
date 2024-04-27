@@ -47,3 +47,4 @@ Question: Does it matter if the list is sorted or not?
 
 # Suggested reading
 * Binary search [implementation](https://www.programiz.com/dsa/binary-search)
+* You all need to do after class practices.
