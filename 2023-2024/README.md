@@ -56,3 +56,4 @@ Since we have in-class coding session, please bring a computer with you to our w
 |   25    | 2024-04-13 | Version Control and Git (part I)               | [link](./2024-04-13/) |
 |   26    | 2024-04-20 | Version Control and Git (part II)              | [link](./2024-04-20/) |
 |   27    | 2024-04-27 | Algorithm (part I) - Search                    | [link](./2024-04-27/) |
+|   28    | 2024-05-04 | Algorithm (part II) - Search & Sort            | [link](./2024-05-04/) |
