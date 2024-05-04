@@ -5,6 +5,7 @@
   - [Concepts](#concepts)
     - [Linear Search](#linear-search)
     - [Binary Search](#binary-search)
+    - [Bubble Sort](#bubble-sort)
   - [Course materials](#course-materials)
 - [Suggested reading](#suggested-reading)
 
@@ -26,7 +27,8 @@ Here are the topics we are going to cover
 ![](./pics/binary_search_s2.gif)
 ![](./pics/binary_search_s3.gif)
 
-
+### Bubble Sort
+![](./pics/bubble_sort_avg.gif)
 
 ## Course materials
 * slides [TBD]
